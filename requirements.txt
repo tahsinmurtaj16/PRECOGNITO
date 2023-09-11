@@ -1,0 +1,7 @@
+pandas
+pickle
+json
+requests
+skit-learn
+numpy
+matplotlib
