@@ -506,6 +506,7 @@ def predict():
     number_of_internship = request.get_json()["number_of_internship"]
     specialization = request.get_json()["specialization"]
     completed_projects = request.get_json()["completed_projects"]
+    umodel = request.get_json()["model"]
 
     """ jobs_tostring = [
         "No job",
@@ -532,7 +533,6 @@ def predict():
     input_query = np.array(
         [
             [
-                id,
                 cgpa,
                 sl_score,
                 mc_score,
@@ -547,7 +547,7 @@ def predict():
         ]
     )
 
-    model = pickle.load(open("model.pkl", "rb"))
+    model = pickle.load(open(f"../models/{umodel}.pkl", "rb"))
     result = model.predict(input_query)
     print(result)
     return jsonify({'Job Role':str(result)})
