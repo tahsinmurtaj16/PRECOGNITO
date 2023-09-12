@@ -44,7 +44,7 @@ python app.py
 ## 1. Load data into Blockchain Network
 Load data into the blockchain network using the following command:
 
-```json
+```bash
 curl --location 'http://localhost:5000/predict' \
 --data '{
     "id": 1828531,
