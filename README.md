@@ -10,7 +10,7 @@ A Blockchain &amp; Machine Learning-Based Student Record Authentication System
 
 <a name="introduction"></a>
 # Introduction
-PreCogNito is a blockchain-based student record authentication system. It is a decentralized application that allows students to store their academic records on a blockchain network. The application uses a machine learning model to verify the authenticity of the records. The application is built using the Ethereum blockchain network and the machine learning model is built using the Python programming language.
+PreCogNito is a blockchain-based student record authentication system. It is a decentralized application that allows students to store their academic records on a blockchain network. The application uses a machine learning model to verify the authenticity of the records. Python programming language is used to build the blockchain and machine learning models of the application.
 
 <a name="installation"></a>
 # How to Install
