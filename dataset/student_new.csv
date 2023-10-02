@@ -1,0 +1,1152 @@
+Timestamp,ID,CGPA,Self_Learning_SCORE,Memory_Capability_SCORE,Programming_CONTEST,Code_Force_PRACTICE,KAGGLE_PRACTICE,Study_Hours_PER_DAY,NUMBER_OF_INTERNSHIP,JOB_ROLE,Specialization
+4/2/2022 18:53:40,1817537,3.61,5,5,0,0,0,3,0,No job,Data Science
+4/2/2022 19:09:15,1817733,3.57,6,7,0,0,0,2,0,No job,Data Science
+4/2/2022 19:12:04,1618745,3.93,8,8,3,2,3,5,3,Data Scientist,Data Science
+4/2/2022 20:15:31,1622354,3.42,6,6,1,2,1,2,1,App Developer,Software Engineering
+4/3/2022 20:48:20,1637989,3.62,6,4,3,5,0,6,2,ML engineer,Data Science
+4/3/2022 20:54:11,1612356,3.78,6,6,0,0,0,6,1,ML engineer,Data Science
+4/3/2022 21:00:22,1712489,3.56,6,6,3,3,2,6,2,Software Engineer,Software Engineering
+4/3/2022 21:03:56,1715494,3.69,6,7,3,6,2,6,2,Data Analyst,Data Science
+4/3/2022 21:08:28,1623399,3.95,7,8,2,0,0,8,2,Network engineer,Network and Security
+4/3/2022 21:27:28,1712556,3.85,5,5,0,0,0,4,0,Web Designer,Software Engineering
+4/3/2022 21:29:56,1639878,3.65,7,5,1,3,2,5,2,Data Analyst,Data Science
+4/3/2022 21:38:18,1614898,3.72,6,4,2,2,0,5,1,App Developer,Software Engineering
+4/3/2022 22:15:38,1625489,3.68,6,6,0,0,0,3,1,Data Analyst,Data Science
+4/3/2022 22:17:23,1714532,3.59,5,5,0,3,0,2,2,Data Engineer,Data Science 
+4/3/2022 22:23:21,1624111,3.2,6,6,2,6,0,4,2,Software Engineer,Software Engineering
+4/3/2022 22:25:08,1624121,3.32,5,6,3,6,0,5,1,Software Engineer,Software Engineering
+4/3/2022 22:33:23,1624132,3.57,7,7,2,4,0,4,2,Web developer,Software Engineering
+4/3/2022 22:46:37,1624231,3.51,6,6,0,0,0,8,2,Network Engineer,Network and Security
+4/3/2022 23:01:31,1624333,3.66,5,6,0,0,0,5,1,Cyber Security Analyst,Network and Security
+4/4/2022 13:04:45,1625411,3.62,6,5,0,0,0,2,0,Data Analyst,Data Science
+4/4/2022 13:07:39,1632569,3.48,6,6,0,0,0,4,0,Data Analyst,Data Science
+4/4/2022 13:19:38,1618793,3.39,7,7,0,0,0,5,4,Network Engineer,Network and Security
+4/4/2022 14:47:19,1619878,3.66,6,4,0,0,0,2,2,Web Developer,Software Engineering
+4/4/2022 14:48:39,1712598,3.82,7,7,2,3,0,4,1,Data Engineer,Data Science
+4/4/2022 14:50:06,1719845,3.59,8,8,3,6,0,5,2,Software Engineer,Software Engineering
+4/4/2022 14:52:31,1635968,3.71,6,6,0,0,0,3,1,Data Analyst,Data Science
+4/4/2022 15:23:56,1615498,3.65,9,6,3,5,0,5,2,Software Engineer,Software Engineering
+4/4/2022 15:40:10,1625848,3.63,5,6,0,0,0,3,1,Data Analyst,Data Science
+4/4/2022 15:42:00,1512489,3.66,5,2,1,3,0,3,2,Software Engineer,Software Engineering
+4/4/2022 15:46:48,1523654,3.61,5,5,0,0,0,5,4,Software Engineer,Software Engineering
+4/4/2022 20:31:32,1532645,3.66,6,5,0,0,0,6,2,Network Engineer,Network and Security
+4/4/2022 20:36:24,1615489,3.74,6,6,0,0,0,5,2,Web Developer,Software Engineering
+4/4/2022 20:39:04,1623545,3.29,5,5,3,6,2,6,3,Software Engineer,Software Engineering
+4/4/2022 20:40:44,1632589,3.57,6,5,2,3,0,3,2,Data Engineer,Data Science
+4/4/2022 20:52:30,1613545,3.45,6,6,0,0,0,3,2,Data Analyst,Data Science
+4/4/2022 20:54:53,1523645,3.55,6,6,1,3,3,5,2,App Developer,Software Engineering 
+4/4/2022 20:57:42,1613256,3.61,7,5,2,3,1,4,3,ML engineer,Data Science
+4/4/2022 21:01:39,1629856,3.7,6,5,1,3,1,4,1,ML engineer,Data Science 
+4/4/2022 21:04:52,1619647,3.68,7,5,0,0,0,5,2,Web Developer,Software Engineering 
+4/4/2022 21:07:27,1625849,3.59,7,5,0,0,0,3,2,Cyber Security Analyst,Network and Security
+4/4/2022 21:09:59,1623456,3.73,8,5,0,0,0,3,2,Cyber Security Analyst,Network and Security
+4/4/2022 21:11:20,1632584,3.73,7,5,0,0,0,4,2,Cyber Security Analyst,Network and Security
+4/4/2022 21:13:20,1712548,3.74,6,6,0,0,0,4,1,Cyber Security Analyst,Network and Security
+4/4/2022 21:18:47,1719564,3.76,7,6,0,0,0,3,2,Cyber Security Analyst,Network and Security
+4/4/2022 21:20:49,1634952,3.8,7,5,0,0,0,4,2,Cyber Security Analyst,Network and Security
+4/4/2022 21:24:05,1625648,3.63,8,5,0,0,0,4,2,Cyber Security Analyst ,Network and Security 
+4/4/2022 21:26:15,1612345,3.53,6,6,0,0,0,5,3,Cyber Security Analyst,Network and Security
+4/4/2022 21:31:18,1624565,3.68,7,5,0,0,0,3,2,Cyber Security Analyst,Network and Security 
+4/4/2022 21:41:27,1632546,3.48,7,5,3,4,2,4,2,Web Developer,Software Engineering 
+4/4/2022 21:43:39,1623546,3.41,8,5,5,10,2,2,2,Software Engineer,Software Engineering 
+4/4/2022 21:46:49,1635486,3.53,8,6,4,3,3,5,3,App Developer ,Software Engineering 
+4/4/2022 21:50:25,1629848,3.49,8,6,3,5,1,4,3,Web Developer ,Software Engineering 
+4/4/2022 22:00:01,1638459,3.71,8,7,5,9,2,4,4,Software Engineer,Software Engineering 
+4/4/2022 22:42:20,1624856,3.45,8,6,5,6,4,5,2,Software Engineer,Software Engineering 
+4/4/2022 22:45:41,1632564,3.49,8,6,5,9,3,4,3,Data Engineer,Data Science 
+4/4/2022 22:48:46,1532648,3.67,7,6,4,6,2,5,3,Data Engineer,Data Science 
+4/4/2022 22:51:11,1524589,3.23,6,5,0,0,0,4,4,Web Developer ,Software Engineering 
+4/5/2022 20:47:43,1612346,3.54,7,6,1,2,4,3,3,ML engineer,Data Science 
+4/5/2022 20:49:04,1624879,3.72,7,6,3,4,1,4,2,App Developer ,Software Engineering 
+4/5/2022 20:50:20,1634897,3.81,8,7,2,4,0,4,2,ML engineer,Data Science 
+4/5/2022 21:13:56,1629877,3.59,8,6,2,4,1,4,3,ML engineer,Data Science 
+4/5/2022 21:16:03,1634567,3.71,7,6,2,3,1,4,4,Web Developer ,Software Engineering 
+4/5/2022 21:17:45,1629874,3.66,7,5,3,4,1,4,3,Software Engineer,Software Engineering 
+4/5/2022 21:19:33,1714895,3.7,7,5,1,2,3,5,3,Data Engineer,Data Science 
+4/5/2022 21:46:41,1713648,3.52,7,5,0,3,4,5,3,Data Engineer,Data Science 
+4/5/2022 21:48:50,1718795,3.66,8,5,2,2,2,4,2,Network Engineer,Network and Security 
+4/5/2022 22:11:17,1713265,3.55,8,5,1,2,1,6,2,Data Analyst,Data Science 
+4/5/2022 22:12:52,1623548,3.68,7,5,1,0,0,5,1,Web Developer ,Software Engineering 
+4/5/2022 22:14:36,1612549,3.46,8,6,0,0,0,3,3,ML engineer,Data Science 
+4/5/2022 22:16:36,1623549,3.32,6,6,3,4,2,4,3,Software Engineer,Software Engineering 
+4/5/2022 22:18:14,1636549,3.41,6,6,0,7,5,4,4,ML engineer,Data Science 
+4/5/2022 22:21:02,1623459,3.62,7,6,0,0,3,4,2,Data Engineer,Data Science 
+4/5/2022 22:23:07,1613649,3.68,8,6,0,0,4,4,2,Network Engineer ,Network and Security 
+4/5/2022 22:32:48,1631549,3.62,8,6,0,0,0,4,3,Network Engineer ,Network and Security 
+4/5/2022 22:36:16,1625948,3.58,8,5,0,0,0,4,2,Network Engineer ,Network and Security 
+4/6/2022 0:02:12,1614956,3.61,7,5,1,0,0,4,2,App Developer ,Software Engineering 
+4/6/2022 0:03:11,1628459,3.63,8,6,1,0,0,4,2,App Developer ,Software Engineering 
+4/6/2022 0:04:23,1634859,3.92,8,7,0,0,0,4,2,Data Analyst,Data Science 
+4/6/2022 0:06:43,1614859,3.58,7,6,2,4,0,4,2,Web Developer ,Software Engineering 
+4/6/2022 0:13:20,1714859,3.64,8,6,0,0,3,4,3,ML engineer,Data Science 
+4/6/2022 0:14:39,1625479,3.6,8,7,0,0,3,4,3,ML engineer,Data Science 
+4/6/2022 0:23:19,1613485,3.68,8,7,0,2,3,4,1,Data Analyst,Data Science 
+4/7/2022 1:25:58,1623515,3.69,8,7,0,0,2,4,1,Data Analyst,Data Science 
+4/7/2022 1:34:24,1625748,3.51,8,6,1,3,0,3,1,App Developer ,Software Engineering 
+4/7/2022 1:35:28,1614572,3.42,8,6,1,3,2,4,1,ML engineer,Data Science 
+4/7/2022 1:39:02,1635178,3.81,8,6,0,0,0,4,1,Software Engineer,Data Science 
+4/7/2022 1:44:35,1614963,3.59,7,6,2,2,0,3,3,Web Developer ,Software Engineering 
+4/7/2022 1:46:01,1715483,3.37,8,7,3,5,1,5,3,Software Engineer,Software Engineering 
+4/7/2022 1:47:13,1718459,3.41,8,7,6,7,2,5,3,Software Engineer,Software Engineering 
+4/7/2022 2:30:20,1631475,3.63,8,7,0,0,0,4,2,Data Analyst,Data Science 
+4/7/2022 2:31:37,1627548,3.39,8,7,3,5,1,5,3,Software Engineer,Software Engineering
+4/7/2022 2:35:51,1628547,3.91,7,7,0,0,0,7,1,Data Analyst,Data Science 
+4/7/2022 2:40:37,1618547,3.72,8,7,1,4,0,5,2,ML engineer,Data Science 
+4/7/2022 2:41:45,1716593,3.67,8,7,3,6,2,6,2,Data Engineer,Data Science 
+4/7/2022 2:42:59,1719632,3.63,8,6,2,5,2,6,2,ML engineer,Data Science 
+4/7/2022 2:44:55,1634125,3.59,8,6,0,0,0,2,1,Web Developer,Data Science 
+4/7/2022 2:46:45,1618753,3.71,8,6,0,0,0,5,1,Software Engineer,Data Science 
+4/7/2022 3:00:12,1715425,3.54,7,6,4,8,2,6,2,Software Engineer,Data Science 
+4/7/2022 3:05:13,1718547,3.51,8,7,4,7,2,6,2,Software Engineer,Data Science 
+4/9/2022 23:58:08,1719654,3.69,8,7,0,0,2,4,1,Data Analyst,Data Science 
+4/9/2022 23:58:57,1631895,3.73,8,6,0,0,2,4,1,Data Analyst,Data Science 
+4/10/2022 0:00:01,1629635,3.56,7,7,1,0,2,4,2,Data Analyst,Data Science 
+4/10/2022 0:01:03,1619542,3.59,8,6,0,0,3,5,2,Data Analyst,Data Science 
+4/10/2022 0:01:59,1719537,3.51,8,6,0,0,2,4,1,Data Analyst,Data Science 
+4/10/2022 0:03:16,1719684,3.94,9,8,3,3,0,8,1,Network Engineer,Network and Security 
+4/10/2022 0:05:08,1632184,3.81,8,7,1,1,0,7,1,Network Engineer,Network and Security 
+4/10/2022 0:06:02,1639843,3.73,7,7,0,0,0,5,1,Network Engineer,Network and Security 
+4/10/2022 0:07:25,1624126,3.69,8,5,0,0,0,5,1,Network Engineer,Network and Security 
+4/10/2022 0:08:52,1619634,3.79,8,6,0,0,0,6,1,Network Engineer,Network and Security 
+4/10/2022 0:25:02,1623495,3.65,8,7,0,0,3,5,2,ML engineer,Data Science 
+4/10/2022 0:26:35,1617849,3.75,8,7,0,0,0,5,1,ML engineer,Data Science 
+4/10/2022 0:27:23,1639548,3.71,7,6,0,0,0,6,1,ML engineer,Data Science 
+4/10/2022 0:28:26,1629548,3.49,8,6,0,0,0,5,1,ML engineer,Data Science 
+4/10/2022 0:29:46,1629685,3.51,8,7,0,0,0,7,1,ML engineer,Data Science 
+4/10/2022 0:31:54,1619546,3.32,8,7,0,0,0,5,1,Web Developer ,Data Science 
+4/10/2022 0:33:13,1629486,3.33,8,7,0,0,0,5,1,Web Developer ,Software Engineering 
+4/10/2022 0:34:01,1636845,3.39,8,7,0,0,0,6,1,Web Developer,Software Engineering 
+4/10/2022 0:35:15,1714852,3.41,7,6,0,0,0,5,1,Web Developer ,Data Science 
+4/10/2022 0:36:08,1621478,3.37,8,7,0,0,0,3,1,Web Developer ,Software Engineering 
+4/10/2022 2:58:47,1632954,3.28,8,5,3,2,1,4,2,App Developer ,Software Engineering 
+4/10/2022 2:59:56,1629531,3.43,8,7,0,0,0,4,2,App Developer ,Software Engineering 
+4/10/2022 3:01:14,1618463,3.47,8,6,0,0,0,4,2,App Developer ,Software Engineering 
+4/10/2022 3:02:40,1619674,3.21,8,6,0,0,0,4,1,App Developer ,Software Engineering 
+4/10/2022 3:04:15,1635574,3.33,8,6,0,0,0,3,2,App Developer ,Software Engineering 
+4/10/2022 3:06:00,1629485,3.35,8,6,0,0,0,5,1,App Developer ,Software Engineering 
+4/10/2022 3:12:46,1623845,3.51,8,7,1,3,1,4,2,Data Engineer,Data Science 
+4/10/2022 3:15:14,1638549,3.53,8,6,1,2,1,4,2,Data Engineer,Data Science 
+4/10/2022 3:16:52,1629964,3.55,8,7,0,0,0,5,2,Data Engineer,Data Science 
+4/10/2022 3:18:05,1636459,3.64,8,7,0,0,1,5,2,Data Engineer,Data Science 
+4/10/2022 3:19:01,1629452,3.66,8,6,0,0,2,6,2,Data Engineer,Data Science 
+4/14/2022 7:13:28,1718524,3.61,8,6,3,2,2,5,1,Software Engineer,Software Engineering 
+4/14/2022 7:15:33,1639452,3.53,8,7,3,2,2,5,1,Software Engineer,Software Engineering 
+4/14/2022 7:17:38,1625418,3.59,8,7,3,2,3,5,2,Software Engineer,Software Engineering 
+4/14/2022 7:19:22,1613964,3.52,8,7,3,2,1,7,1,Software Engineer,Software Engineering 
+4/14/2022 7:21:15,1719685,3.65,8,7,3,4,2,6,2,Software Engineer,Software Engineering 
+4/14/2022 9:55:37,1619684,3.61,7,7,0,0,2,5,1,Data Engineer,Data Science 
+4/14/2022 9:56:38,1639854,3.67,7,7,0,0,2,6,2,Data Engineer,Data Science 
+4/14/2022 9:57:34,1629684,3.63,8,7,0,0,4,5,1,Data Engineer,Data Science 
+4/14/2022 9:58:34,1618496,3.59,8,6,0,0,1,3,1,Data Engineer,Data Science 
+4/14/2022 9:59:39,1715846,3.58,8,7,0,0,3,6,2,Data Engineer,Data Science 
+4/14/2022 10:12:30,1716937,3.51,8,7,0,0,2,6,2,Data Engineer ,Data Science 
+4/14/2022 10:14:36,1638412,3.52,8,7,0,0,0,5,1,Data Engineer,Data Science 
+4/14/2022 10:16:20,1619637,3.59,7,7,0,0,2,7,1,Data Engineer ,Data Science
+4/14/2022 10:18:05,1628545,3.59,7,7,0,0,2,6,2,ML engineer,Data Science 
+4/14/2022 10:19:05,1627456,3.69,7,7,0,0,3,7,2,ML engineer,Data Science 
+4/14/2022 10:21:12,1628988,3.62,8,6,0,0,3,5,1,Data Engineer,Data Science
+4/14/2022 10:22:13,1629674,3.58,8,6,0,0,4,6,1,ML engineer,Data Science 
+4/14/2022 10:23:19,1626521,3.71,7,7,0,0,3,6,1,ML engineer,Data Science 
+4/14/2022 10:25:53,1618542,3.63,8,6,0,0,3,5,2,ML engineer,Data Science 
+4/14/2022 10:33:43,1637548,3.41,7,6,0,0,0,4,1,Web Developer ,Software Engineering 
+4/14/2022 10:34:52,1614521,3.43,8,7,0,0,0,4,1,Web Developer ,Software Engineering
+4/14/2022 11:13:39,1618121,3.39,8,7,0,0,0,4,1,Web Developer ,Software Engineering 
+4/14/2022 11:15:00,1614152,3.38,8,7,0,0,0,3,1,Web Developer ,Software Engineering 
+4/14/2022 11:16:21,1629458,3.29,8,7,0,0,0,3,1,Web Developer ,Software Engineering 
+4/14/2022 11:20:00,1639128,3.38,8,7,0,0,0,4,1,Web Developer ,Software Engineering 
+4/14/2022 11:21:15,1629184,3.4,8,7,0,0,0,4,1,App Developer,Software Engineering 
+4/14/2022 11:33:29,1628521,3.39,8,7,0,0,0,4,1,App Developer ,Software Engineering 
+4/14/2022 11:34:48,1623694,3.38,8,7,0,0,0,3,1,App Developer ,Software Engineering 
+4/14/2022 11:35:48,1639658,3.31,7,7,0,0,0,4,1,App Developer ,Software Engineering 
+4/14/2022 11:37:57,1629631,3.28,7,6,0,0,0,4,1,App Developer ,Software Engineering 
+4/14/2022 11:45:07,1638546,3.35,7,6,0,0,0,3,1,App Developer ,Software Engineering 
+4/14/2022 11:46:00,1629634,3.51,7,6,0,0,0,3,1,App Developer ,Software Engineering 
+4/14/2022 12:08:12,1639685,3.49,8,5,0,0,0,3,1,App Developer ,Software Engineering
+4/14/2022 12:09:15,1629854,3.48,8,5,0,0,0,3,1,App Developer ,Software Engineering 
+4/14/2022 12:12:04,1611478,3.89,8,7,0,0,2,4,1,Data Analyst,Data Science 
+4/14/2022 12:13:08,1619631,3.73,8,7,0,0,3,5,1,Data Analyst,Data Science 
+4/14/2022 12:26:36,1716849,3.79,8,7,0,0,3,4,1,Data Analyst,Data Science 
+4/14/2022 12:28:55,1713865,3.75,8,7,0,0,3,4,1,Data Analyst,Data Science 
+4/14/2022 12:31:19,1717458,3.78,8,7,0,0,3,5,1,Data Analyst,Data Science 
+4/14/2022 12:32:20,1638471,3.78,8,7,0,0,4,5,1,Data Analyst ,Data Science 
+4/14/2022 12:38:50,1628453,3.77,8,7,0,0,4,5,1,Data Analyst,Data Science 
+4/14/2022 12:41:15,1618452,3.66,8,6,0,0,5,6,1,Data Analyst,Data Science 
+4/14/2022 12:43:04,1639674,3.68,8,7,0,0,0,5,1,Network Engineer ,Network and Security 
+4/14/2022 12:44:25,1626594,3.75,8,6,0,0,0,6,1,Network Engineer,Network and Security
+4/14/2022 12:47:51,1617485,3.76,8,7,0,0,0,6,1,Network Engineer,Network and Security 
+4/14/2022 12:49:12,1618518,3.58,8,7,0,0,0,5,1,Network Engineer,Network and Security
+4/14/2022 12:50:25,1628416,3.83,8,7,0,0,0,4,1,Network Engineer,Network and Security 
+4/14/2022 12:51:48,1713129,3.68,7,6,0,0,0,5,1,Network Engineer,Network and Security 
+4/14/2022 12:53:57,1716943,3.73,7,7,0,0,0,4,1,Network Engineer,Network and Security 
+4/14/2022 12:54:57,1719634,3.73,8,7,0,0,0,4,1,Network Engineer,Network and Security 
+4/14/2022 12:57:47,1714628,3.83,7,7,0,0,4,5,1,Cyber Security Analyst,Network and Security
+4/14/2022 13:00:11,1632417,3.81,7,6,0,0,3,5,1,Cyber Security Analyst,Network and Security
+4/14/2022 13:01:15,1624965,3.73,7,7,0,0,3,4,1,Cyber Security Analyst,Network and Security
+4/14/2022 13:02:26,1629314,3.74,8,7,0,0,3,5,1,Cyber Security Analyst,Network and Security
+4/14/2022 13:05:06,1618421,3.87,8,7,0,0,3,4,1,Cyber Security Analyst,Network and Security 
+4/14/2022 13:06:17,1617496,3.81,8,6,0,0,3,5,1,Cyber Security Analyst,Network and Security
+4/14/2022 15:41:58,1614815,3.59,7,6,0,0,2,3,1,Cyber Security Analyst,Network and Security 
+4/14/2022 15:43:28,1639528,3.76,8,7,0,0,3,5,1,Cyber Security Analyst,Network and Security 
+4/14/2022 15:44:39,1712934,3.65,8,7,0,0,3,5,1,Cyber Security Analyst,Network and Security 
+4/14/2022 15:47:10,1719637,3.69,8,7,0,0,0,6,1,Web Designer ,Data Science 
+4/14/2022 15:49:26,1635192,3.86,8,7,0,0,0,6,1,Web Designer,Data Science 
+4/14/2022 15:50:31,1621954,3.82,8,7,0,0,0,6,1,Web Designer ,Data Science 
+4/14/2022 15:56:32,1631928,3.87,8,7,0,0,0,5,1,Web Designer ,Data Science 
+4/14/2022 15:57:38,1629374,3.79,8,8,0,0,0,6,1,Web Designer ,Data Science 
+4/14/2022 16:01:06,1715964,3.83,8,7,0,0,0,6,1,Web Designer,Data Science 
+4/14/2022 16:02:27,1632514,3.65,9,8,2,4,4,5,2,ML engineer,Data Science 
+4/14/2022 16:03:32,1623614,3.71,8,7,1,3,4,6,1,ML engineer,Data Science 
+4/14/2022 16:04:34,1629638,3.85,8,7,0,0,5,6,1,ML engineer,Data Science 
+4/14/2022 16:05:24,1628451,3.87,8,8,0,0,6,5,1,ML engineer,Data Science 
+4/15/2022 20:27:50,1628594,3.69,8,7,0,0,0,4,1,Network Engineer,Network and Security 
+4/15/2022 20:29:12,1619638,3.48,8,7,0,0,0,3,1,Network Engineer,Network and Security 
+4/15/2022 20:33:18,1637452,3.58,8,7,0,0,0,3,1,Network Engineer,Network and Security 
+4/15/2022 20:35:48,1629561,3.61,8,7,0,0,0,3,1,Network Engineer,Network and Security 
+4/16/2022 21:30:58,1717543,3.47,8,7,0,0,0,3,1,Network Engineer,Network and Security 
+4/16/2022 21:31:59,1639845,3.39,8,8,0,0,0,3,2,Network Engineer,Network and Security 
+4/16/2022 21:34:48,1629465,3.28,8,7,0,0,0,3,2,Web Designer,Software Engineering 
+4/16/2022 22:11:44,1618549,3.21,6,6,0,0,0,3,3,Software Engineer,Software Engineering 
+4/16/2022 22:12:49,1624815,3.11,8,6,4,5,1,4,4,Software Engineer,Software Engineering 
+4/16/2022 22:17:27,1539847,3.12,8,7,4,3,1,6,4,Software Engineer,Software Engineering 
+4/16/2022 22:19:19,1518218,3.17,7,6,3,3,1,4,5,Software Engineer,Software Engineering 
+4/16/2022 22:20:24,1526549,3.22,7,6,2,5,0,3,2,App Developer ,Software Engineering 
+4/16/2022 23:02:44,1539548,3.19,8,6,3,4,0,3,2,UI Designer ,Software Engineering 
+4/16/2022 23:06:16,1519564,3.11,8,6,3,2,0,4,1,UI Designer ,Software Engineering 
+4/16/2022 23:19:49,1533845,3.13,8,6,0,0,0,2,3,UI Designer,Software Engineering 
+4/16/2022 23:28:18,1529541,3.21,8,6,0,0,0,2,1,UI Designer ,Software Engineering 
+4/16/2022 23:29:12,1514592,3.78,8,6,0,0,0,4,3,ML engineer,Data Science 
+4/16/2022 23:52:18,1539684,2.93,8,6,5,10,0,3,3,Software Engineer,Data Science 
+4/16/2022 23:53:56,1523192,3.09,8,6,4,11,0,3,3,Software Engineer,Software Engineering 
+4/16/2022 23:58:09,1519318,3.25,8,6,5,13,0,2,2,Software Engineer,Software Engineering 
+4/16/2022 23:59:42,1519918,2.93,7,6,5,15,0,3,4,Software Engineer,Software Engineering 
+4/17/2022 0:01:23,1534912,3.11,8,5,6,13,0,3,4,Software Engineer,Software Engineering 
+4/17/2022 0:03:15,1514725,3.19,8,6,6,5,0,3,2,Software Engineer,Software Engineering 
+4/17/2022 0:40:19,1539481,3.2,8,6,4,3,1,5,2,Software Engineer,Software Engineering 
+4/17/2022 0:41:13,1523748,2.98,8,6,3,2,2,3,1,Data Analyst,Data Science 
+4/17/2022 0:42:44,1512482,3.11,9,7,2,10,3,2,3,ML engineer,Data Science
+4/17/2022 0:44:13,1529531,3.25,8,6,3,10,4,4,3,ML engineer,Data Science 
+4/17/2022 0:45:41,1535921,3.22,8,6,4,8,2,3,2,ML engineer,Data Science 
+4/17/2022 0:47:02,1539541,3.87,9,7,3,2,3,2,3,Data Engineer,Data Science 
+4/17/2022 0:48:17,1623958,3.81,8,6,4,3,2,2,3,Data Engineer,Data Science 
+4/17/2022 0:51:20,1629121,3.33,8,6,3,7,3,3,2,ML engineer,Data Science 
+4/17/2022 20:36:16,1619482,3.33,8,7,3,2,1,4,1,Software Engineer,Data Science 
+4/17/2022 20:40:46,1629541,3.13,6,6,2,3,1,3,1,Web Designer,Software Engineering 
+4/17/2022 20:42:25,1421964,3.33,7,5,4,4,1,4,4,Web Developer ,Software Engineering 
+4/17/2022 20:43:27,1419521,3.22,6,5,3,3,1,3,4,Software Engineer,Software Engineering 
+4/17/2022 21:06:21,1429548,3.17,8,6,0,0,0,3,3,Cyber Security Analyst,Network and Security 
+4/17/2022 21:11:26,1639541,3.69,8,6,0,0,0,4,2,Data Analyst,Data Science 
+4/17/2022 21:13:24,1625841,3.72,8,5,0,0,0,4,2,Data Analyst,Data Science 
+4/17/2022 21:48:06,1614852,3.41,7,6,0,0,0,2,1,Web Developer,Data Science 
+4/17/2022 21:57:02,1529841,3.18,6,6,0,0,0,2,2,UI Designer ,Software Engineering 
+4/17/2022 21:57:53,1518541,3.23,6,6,0,0,0,3,3,Data Analyst,Data Science 
+4/17/2022 22:00:25,1519542,3.09,5,5,0,0,0,2,2,UI Designer ,Software Engineering 
+4/17/2022 22:01:27,1523148,3.25,6,6,4,5,3,4,3,ML engineer,Data Science 
+4/17/2022 22:02:35,1514875,3.24,7,7,1,2,1,2,2,Data Engineer,Data Science 
+4/18/2022 4:09:25,1529185,3.21,6,6,0,0,0,2,2,UI Designer,Software Engineering 
+4/18/2022 4:10:20,1519128,3.15,7,6,0,0,0,2,3,App Developer,Software Engineering 
+4/18/2022 4:11:39,1539184,3.33,7,6,0,0,5,2,4,Data Analyst,Data Science 
+4/18/2022 4:12:40,1512824,3.26,7,7,0,0,0,2,2,Web Developer,Software Engineering 
+4/18/2022 4:13:50,1519514,3.58,7,7,0,0,4,4,2,Data Analyst,Data Science 
+4/18/2022 4:15:36,1523328,3.77,7,7,0,0,4,2,3,ML engineer,Data Science 
+4/18/2022 4:17:21,1435284,3.65,7,6,4,3,2,3,2,Software Engineer,Software Engineering 
+4/18/2022 4:23:21,1429481,3.53,7,7,2,3,1,3,2,Software Engineer,Software Engineering 
+4/18/2022 4:25:16,1536495,3.88,8,8,0,0,0,4,1,Data Analyst,Data Science 
+4/18/2022 4:26:21,1524981,3.83,8,7,0,0,0,3,1,Data Analyst,Data Science 
+4/18/2022 4:27:41,1514492,3.97,9,8,0,0,0,66,1,Data Analyst,Data Science 
+4/18/2022 5:23:12,1536548,3.77,8,7,0,0,0,4,1,Data Analyst,Data Science 
+4/18/2022 5:30:01,1536958,3.69,7,6,2,2,2,4,2,Software Engineer,Software Engineering 
+4/18/2022 5:31:03,1532817,3.72,8,7,3,2,4,4,2,Software Engineer,Software Engineering 
+4/18/2022 5:32:14,1536748,3.73,8,6,2,1,3,3,1,Software Engineer,Software Engineering 
+4/18/2022 5:35:00,1429536,3.43,7,6,4,2,2,5,2,Data Analyst,Data Science 
+4/18/2022 12:17:46,1413658,3.43,7,7,0,0,0,3,3,App Developer,Software Engineering 
+4/18/2022 12:19:25,1425949,3.49,8,6,4,5,4,2,3,ML engineer,Data Science 
+4/18/2022 12:28:54,1536984,3.51,7,7,0,0,0,2,3,Data Analyst,Data Science 
+4/18/2022 12:30:43,1539781,3.62,9,6,2,5,4,5,2,ML engineer,Data Science
+4/18/2022 12:45:29,1538124,3.58,8,6,0,0,6,5,1,ML engineer,Data Science 
+4/18/2022 12:47:06,1539418,3.66,8,5,0,0,6,4,2,ML engineer,Data Science 
+4/18/2022 12:52:41,1536417,3.29,7,7,3,3,7,3,2,ML engineer,Data Science 
+4/18/2022 14:20:54,1539884,3.59,7,6,0,0,0,3,1,Data Analyst,Data Science 
+4/18/2022 14:23:22,1537418,3.24,6,6,0,0,0,2,1,Web Designer,Software Engineering 
+4/18/2022 14:36:44,1529584,3.12,7,7,0,0,0,2,1,UI Designer,Software Engineering
+4/18/2022 14:39:43,1536719,3.19,7,7,0,0,0,2,1,Web Designer,Software Engineering 
+4/18/2022 21:02:14,1514958,3.29,7,7,0,0,0,2,2,Web Developer,Software Engineering
+4/18/2022 21:41:28,1521845,3.73,8,7,3,2,3,2,1,ML engineer,Data Science 
+4/18/2022 21:43:10,1518421,3.55,8,7,3,3,3,3,2,Data Engineer,Data Science 
+4/18/2022 21:49:03,1524818,3.87,7,7,0,0,0,4,2,Data Analyst,Data Science 
+4/18/2022 21:58:08,1529154,3.35,6,6,0,0,0,3,1,App Developer,Software Engineering 
+4/18/2022 22:02:06,1524959,3.63,8,8,2,4,4,5,2,ML engineer,Data Science 
+4/18/2022 22:03:28,1525418,3.54,7,7,1,2,2,3,1,Data Engineer,Data Science 
+4/18/2022 22:06:51,1529637,3.59,8,8,0,0,0,3,3,Data Engineer,Data Science 
+4/19/2022 1:05:50,1522845,3.48,7,7,0,0,0,3,2,Web Developer,Software Engineering 
+4/19/2022 1:07:25,1515476,3.57,8,7,0,0,3,5,1,Data Engineer,Data Science 
+4/19/2022 1:08:55,1514691,3.65,8,7,0,0,0,3,2,Data Engineer,Data Science 
+4/19/2022 1:13:01,1519127,3.89,9,8,0,0,0,4,1,Data Analyst,Data Science 
+4/19/2022 1:15:57,1517548,3.36,8,7,4,7,3,5,1,Software Engineer,Software Engineering
+4/19/2022 1:18:05,1514325,3.29,8,8,4,7,3,3,1,Software Engineer,Software Engineering 
+4/19/2022 1:20:32,1516541,3.45,9,8,8,14,3,5,1,Software Engineer,Software Engineering 
+4/19/2022 1:22:09,1528451,3.37,7,7,0,0,0,3,1,Web Designer,Software Engineering 
+4/19/2022 1:23:52,1527415,3.39,7,7,0,0,0,3,1,UI Designer,Software Engineering 
+4/19/2022 1:26:23,1525632,3.17,7,7,0,0,0,2,1,Web Designer,Software Engineering 
+4/19/2022 1:28:38,1513458,3.92,9,9,0,0,0,7,1,Data Analyst,Data Science 
+4/19/2022 1:31:03,1511548,3.77,8,8,0,0,0,3,1,Data Engineer,Data Science 
+4/19/2022 1:32:12,1516352,3.68,7,7,0,0,4,2,1,ML engineer,Data Science 
+4/19/2022 1:33:37,1531452,3.81,7,7,0,0,0,3,1,Data Analyst,Data Science 
+4/19/2022 1:34:47,1535848,3.73,7,7,0,0,5,2,1,ML engineer,Data Science 
+4/19/2022 1:36:24,1524985,3.68,8,8,14,20,0,7,2,Software Engineer,Data Science 
+4/19/2022 1:37:40,1524521,3.5,7,7,0,0,9,6,1,ML engineer,Data Science 
+4/19/2022 1:40:00,1535418,3.22,6,5,0,0,0,2,1,UI Designer,Software Engineering 
+4/19/2022 1:41:24,1514254,3.31,6,6,0,0,0,2,1,Cyber Security Analyst,Network and Security 
+4/19/2022 1:42:32,1532548,3.27,7,7,0,0,0,2,1,Web Developer,Data Science 
+4/19/2022 1:44:09,1514821,3.14,6,6,9,9,0,4,2,Software Engineer,Software Engineering 
+5/2/2022 14:20:36,1412518,3.25,6,6,1,5,1,3,1,Web Designer,Software Engineering 
+5/2/2022 14:21:54,1412351,3.44,6,5,2,4,1,2,1,Software Engineer,Software Engineering 
+5/2/2022 14:23:21,1418494,3.54,7,5,3,7,3,4,1,Data Analyst,Data Science 
+5/2/2022 14:27:02,1418548,3.32,7,6,1,5,4,2,2,Software Engineer,Software Engineering 
+5/2/2022 14:28:10,1415848,3.47,6,5,1,6,8,4,3,Data Engineer,Data Science 
+5/2/2022 14:29:54,1419284,3.59,5,5,2,7,5,4,1,Data Analyst,Data Science 
+5/2/2022 14:31:01,1417495,3.82,7,6,2,3,2,3,1,Data Engineer,Data Science 
+5/2/2022 14:32:48,1419874,3.41,7,6,2,7,6,4,1,ML engineer,Data Science 
+5/2/2022 14:39:14,1412284,3.55,6,5,2,6,5,4,3,Software Engineer,Software Engineering 
+5/2/2022 14:42:26,1419458,3.23,6,5,2,4,2,4,1,Software Engineer,Data Science 
+5/2/2022 14:43:37,1412849,3.39,7,5,3,6,5,3,1,Data Engineer,Data Science 
+5/2/2022 14:44:40,1411485,3.59,7,5,2,5,4,2,2,ML engineer,Data Science 
+5/2/2022 14:47:46,1412874,3.49,7,5,1,4,5,2,1,Data Analyst,Data Science 
+5/2/2022 14:49:12,1413859,3.64,7,6,1,3,3,3,1,Data Analyst,Data Science 
+5/2/2022 14:50:21,1414852,3.52,8,6,1,4,3,2,1,Data Engineer,Data Science 
+5/2/2022 14:51:36,1415428,3.43,5,5,4,6,5,4,1,Backend Engineer,Software Engineering
+5/2/2022 14:52:51,1413984,3.6,6,5,3,6,4,3,1,Backend Engineer,Software Engineering 
+5/2/2022 15:12:19,1413925,3.42,5,5,2,3,3,2,2,Data Analyst,Data Science 
+5/2/2022 15:13:55,1413928,3.14,5,5,3,4,4,3,1,DevOps Engineer,Software Engineering
+5/2/2022 15:15:37,1414518,3.22,6,5,2,5,5,2,2,QA Engineer,Software Engineering 
+5/2/2022 15:17:27,1413985,3.21,6,5,1,1,4,2,1,MlOps Engineer,Data Science
+5/2/2022 15:18:51,1417329,3.78,7,5,2,4,4,2,2,FullStack Engineer,Software Engineering 
+5/2/2022 15:20:26,1417958,3.28,8,7,2,6,7,3,1,MlOps Engineer,Data Science 
+5/2/2022 15:21:24,1417914,3.64,6,5,2,3,4,2,1,DevOps Engineer,Software Engineering 
+5/2/2022 15:22:44,1414952,3.38,6,6,4,7,2,2,2,Backend Engineer,Software Engineering 
+5/2/2022 15:24:32,1415241,3.67,7,6,2,5,3,2,1,Frontend Developer ,Software Engineering 
+5/2/2022 15:26:51,1418495,3.67,6,5,2,6,3,3,2,QA Engineer,Software Engineering 
+5/2/2022 15:27:49,1418524,3.59,7,6,2,3,4,2,1,Data Analyst,Data Science 
+5/2/2022 15:31:15,1423585,3.72,7,6,1,6,3,2,1,FullStack Engineer,Software Engineering
+5/2/2022 15:32:32,1421425,3.49,7,6,4,8,3,5,1,Security Engineer,Software Engineering 
+5/3/2022 1:01:21,1423584,3.41,6,5,1,5,2,4,1,Security Engineer,Software Engineering
+5/3/2022 1:02:27,1425142,3.38,6,5,1,5,2,4,1,Frontend Developer,Software Engineering 
+5/3/2022 1:03:40,1424854,3.46,5,5,2,22,5,5,1,Backend Engineer,Software Engineering
+5/3/2022 1:04:40,1427848,3.51,7,5,1,12,2,2,1,DevOps Engineer,Software Engineering
+5/3/2022 1:05:42,1427418,3.59,7,6,3,15,2,5,3,QA Engineer,Software Engineering 
+5/3/2022 1:06:43,1429514,3.59,7,6,1,5,8,6,1,ML engineer,Data Science 
+5/3/2022 1:08:20,1425841,3.47,8,5,1,2,10,7,3,ML engineer,Data Science
+5/3/2022 1:09:54,1429584,3.77,7,5,1,4,9,3,2,MlOps Engineer,Data Science 
+5/3/2022 1:10:49,1428459,3.79,8,5,1,6,11,4,1,Data Scientist,Data Science
+5/3/2022 1:11:55,1425863,3.22,6,4,1,14,2,5,1,FullStack Engineer,Data Science
+5/3/2022 1:13:09,1428452,3.11,6,5,1,2,14,4,1,Data Scientist,Data Science 
+5/3/2022 1:37:50,1423651,3.42,5,5,3,14,3,3,2,DevOps Engineer,Data Science 
+5/3/2022 1:41:25,1428411,3.52,6,5,1,3,9,7,1,ML engineer,Data Science
+5/3/2022 1:42:36,1427482,3.66,6,5,4,14,3,8,1,Backend Engineer,Software Engineering 
+5/3/2022 1:45:16,1424952,3.29,5,5,2,3,11,6,2,MlOps Engineer,Data Science 
+5/3/2022 1:46:57,1427432,3.31,8,6,1,2,9,5,2,Data Scientist,Data Science 
+5/3/2022 1:48:07,1423548,3.36,7,5,8,11,2,6,1,FullStack Engineer,Software Engineering 
+5/3/2022 1:49:18,1426485,3.74,7,5,1,2,10,7,1,Data Engineer,Data Science 
+5/3/2022 1:51:02,1425415,3.19,7,5,1,3,13,5,2,ML engineer,Data Science 
+5/3/2022 1:52:23,1425541,3.25,6,5,1,2,12,6,1,Data Architect,Data Science 
+5/3/2022 1:53:34,1424951,3.45,7,6,1,1,16,8,2,Data Engineer,Data Science 
+5/3/2022 1:54:40,1423451,3.57,8,5,2,5,7,4,1,Data Analyst,Data Science 
+5/3/2022 1:56:12,1424852,3.58,7,5,1,2,16,7,1,MlOps Engineer,Data Science 
+5/3/2022 1:57:44,1424981,3.55,6,6,6,17,2,5,2,Backend Engineer,Software Engineering 
+5/3/2022 1:58:54,1424915,3.44,7,6,7,18,2,6,2,DevOps Engineer,Software Engineering 
+5/3/2022 2:00:27,1413415,3.47,8,6,1,1,15,6,2,Data Scientist,Data Science 
+5/3/2022 2:01:27,1435584,3.3,7,4,1,1,11,4,2,Data Architect,Data Science 
+5/3/2022 2:04:04,1436654,3.61,7,6,1,1,16,8,2,ML engineer,Data Science 
+5/3/2022 2:05:52,1434184,3.11,6,5,12,21,1,8,4,FullStack Engineer,Software Engineering 
+5/3/2022 2:08:18,1431948,3.23,7,5,1,1,22,8,4,Data Scientist,Data Science 
+5/3/2022 2:11:41,1439518,3.48,7,5,1,1,17,4,2,ML engineer,Data Science 
+5/3/2022 2:13:21,1436615,3.25,7,6,1,1,15,6,3,Data Engineer,Data Science 
+5/3/2022 2:14:53,1437741,3.36,7,5,1,5,18,5,3,Data Engineer,Data Science 
+5/3/2022 2:17:10,1439841,3.32,8,6,7,13,2,7,2,DevOps Engineer,Software Engineering 
+5/3/2022 2:18:56,1434941,3.43,7,5,1,1,11,8,1,Data Scientist,Data Science 
+5/3/2022 2:20:35,1434528,3.69,8,6,1,1,15,5,2,Data Engineer,Data Science 
+5/3/2022 2:22:10,1437185,3.61,7,6,1,1,21,7,1,Data Architect,Data Science 
+5/3/2022 2:35:21,1437125,3.39,8,6,13,19,2,8,2,FullStack Engineer,Software Engineering 
+5/3/2022 2:36:48,1431548,3.27,7,6,1,1,15,6,1,Data Scientist,Data Science 
+5/3/2022 2:37:58,1434929,3.17,7,5,1,1,12,10,2,ML engineer,Data Science 
+5/3/2022 2:39:48,1437748,3.49,7,6,11,15,1,7,4,FullStack Engineer,Software Engineering 
+5/3/2022 2:41:24,1434125,3.31,7,6,1,1,15,6,2,Data Architect,Data Science 
+5/3/2022 2:43:03,1439625,3.11,7,7,1,1,1,2,1,Web Developer,Software Engineering
+5/3/2022 2:45:04,1434815,3.16,7,5,1,1,1,3,1,UI Designer ,Software Engineering 
+5/3/2022 2:46:15,1434951,3.22,7,6,1,1,1,3,1,Web Designer ,Data Science 
+5/3/2022 2:47:27,1435481,3.27,7,5,1,1,1,2,1,Web Developer ,Data Science 
+5/3/2022 2:48:59,1432215,3.18,5,4,1,1,1,2,1,Web Designer ,Network and Security 
+5/3/2022 2:50:01,1432918,3.39,5,5,1,1,1,4,1,Web Designer ,Software Engineering 
+5/3/2022 2:51:48,1434194,3.33,6,6,1,1,1,3,1,UI Designer,Software Engineering 
+5/3/2022 2:52:50,1435128,3.45,6,5,7,11,1,6,1,FullStack Engineer,Software Engineering 
+5/3/2022 10:02:11,1434177,3.18,7,6,13,18,2,4,1,DevOps Engineer ,Software Engineering 
+5/3/2022 10:06:49,1432277,3.27,7,6,1,1,11,6,1,Data Scientist ,Data Science 
+5/4/2022 15:51:07,1720001,3.11,7,6,5,11,1,6,2,DevOps Engineer,Software Engineering 
+5/4/2022 15:53:11,1720002,3.29,7,6,1,1,8,6,2,Data Engineer,Data Science 
+5/4/2022 15:59:05,1720003,3.414,7,7,1,1,11,8,1,ML engineer,Data Science 
+5/4/2022 16:02:22,1720004,3.66,8,6,7,11,2,7,2,Backend Engineer,Software Engineering 
+5/4/2022 16:04:01,1720005,3.77,7,7,1,1,11,8,2,ML engineer,Data Science 
+5/4/2022 16:06:14,1720006,3.79,8,7,1,1,14,7,1,ML engineer,Data Science 
+2/4/2023 17:02:15,1810987,3.99,9,8,0,0,0,7,1,Data Analyst,Data Science
+2/4/2023 17:08:51,1910123,3.64,9,7,0,0,1,4,1,Data Scientist,Data Science
+2/4/2023 17:10:51,1820321,3.77,7,7,0,0,0,4,1,Data Analyst,Data Science
+2/4/2023 17:14:03,1836432,3.58,7,6,0,0,0,2,1,Web Developer ,Network and Security 
+2/4/2023 17:15:50,1914234,3.44,8,8,4,6,0,5,1,Data Scientist ,Software Engineering 
+,1720101,3.93,8,8,3,2,3,5,3,Data Scientist,Data Science
+,1720055,3.42,6,6,1,2,1,2,1,App Developer,Software Engineering
+,1720191,3.62,6,4,3,5,0,6,2,ML engineer,Data Science
+,1720022,3.78,6,6,0,0,0,6,1,ML engineer,Data Science
+,1720033,3.56,6,6,3,3,2,6,2,Software Engineer,Software Engineering
+,1720192,3.69,6,7,3,6,2,6,2,Data Analyst,Data Science
+,1720024,3.95,7,8,2,0,0,8,2,Network engineer,Network and Security
+,1720187,3.85,5,5,0,0,0,4,0,Web Designer,Software Engineering
+,1720176,3.65,7,5,1,3,2,5,2,Data Analyst,Data Science
+,1720117,3.72,6,4,2,2,0,5,1,App Developer,Software Engineering
+,1720028,3.68,6,6,0,0,0,3,1,Data Analyst,Data Science
+,1720166,3.59,5,5,0,3,0,2,2,Data Engineer,Data Science 
+,1720168,3.2,6,6,2,6,0,4,2,Software Engineer,Software Engineering
+,1720085,3.32,5,6,3,6,0,5,1,Software Engineer,Software Engineering
+,1720086,3.57,7,7,2,4,0,4,2,Web developer,Software Engineering
+,1720085,3.51,6,6,0,0,0,8,2,Network Engineer,Network and Security
+,1720063,3.66,5,6,0,0,0,5,1,Cyber Security Analyst,Network and Security
+,1720052,3.62,6,5,0,0,0,2,0,Data Analyst,Data Science
+,1720121,3.48,6,6,0,0,0,4,0,Data Analyst,Data Science
+,1720041,3.39,7,7,0,0,0,5,4,Network Engineer,Network and Security
+,1720072,3.66,6,4,0,0,0,2,2,Web Developer,Software Engineering
+,1720151,3.82,7,7,2,3,0,4,1,Data Engineer,Data Science
+,1720015,3.59,8,8,3,6,0,5,2,Software Engineer,Software Engineering
+,1720049,3.71,6,6,0,0,0,3,1,Data Analyst,Data Science
+,1720185,3.65,9,6,3,5,0,5,2,Software Engineer,Software Engineering
+,1720059,3.63,5,6,0,0,0,3,1,Data Analyst,Data Science
+,1720071,3.66,5,2,1,3,0,3,2,Software Engineer,Software Engineering
+,1720110,3.61,5,5,0,0,0,5,4,Software Engineer,Software Engineering
+,1720087,3.66,6,5,0,0,0,6,2,Network Engineer,Network and Security
+,1720016,3.74,6,6,0,0,0,5,2,Web Developer,Software Engineering
+,1720136,3.29,5,5,3,6,2,6,3,Software Engineer,Software Engineering
+,1720165,3.57,6,5,2,3,0,3,2,Data Engineer,Data Science
+,1720044,3.45,6,6,0,0,0,3,2,Data Analyst,Data Science
+,1720138,3.55,6,6,1,3,3,5,2,App Developer,Software Engineering 
+,1720011,3.61,7,5,2,3,1,4,3,ML engineer,Data Science
+,1720053,3.7,6,5,1,3,1,4,1,ML engineer,Data Science 
+,1720184,3.68,7,5,0,0,0,5,2,Web Developer,Software Engineering 
+,1720171,3.59,7,5,0,0,0,3,2,Cyber Security Analyst,Network and Security
+,1720047,3.73,8,5,0,0,0,3,2,Cyber Security Analyst,Network and Security
+,1720074,3.73,7,5,0,0,0,4,2,Cyber Security Analyst,Network and Security
+,1720045,3.74,6,6,0,0,0,4,1,Cyber Security Analyst,Network and Security
+,1720054,3.76,7,6,0,0,0,3,2,Cyber Security Analyst,Network and Security
+,1720070,3.8,7,5,0,0,0,4,2,Cyber Security Analyst,Network and Security
+,1720040,3.63,8,5,0,0,0,4,2,Cyber Security Analyst ,Network and Security 
+,1720184,3.53,6,6,0,0,0,5,3,Cyber Security Analyst,Network and Security
+,1720094,3.68,7,5,0,0,0,3,2,Cyber Security Analyst,Network and Security 
+,1720107,3.48,7,5,3,4,2,4,2,Web Developer,Software Engineering 
+,1720026,3.41,8,5,5,10,2,2,2,Software Engineer,Software Engineering 
+,1720099,3.53,8,6,4,3,3,5,3,App Developer ,Software Engineering 
+,1720149,3.49,8,6,3,5,1,4,3,Web Developer ,Software Engineering 
+,1720177,3.71,8,7,5,9,2,4,4,Software Engineer,Software Engineering 
+,1720109,3.45,8,6,5,6,4,5,2,Software Engineer,Software Engineering 
+,1720102,3.49,8,6,5,9,3,4,3,Data Engineer,Data Science 
+,1720072,3.67,7,6,4,6,2,5,3,Data Engineer,Data Science 
+,1720049,3.23,6,5,0,0,0,4,4,Web Developer ,Software Engineering 
+,1720053,3.54,7,6,1,2,4,3,3,ML engineer,Data Science 
+,1720187,3.72,7,6,3,4,1,4,2,App Developer ,Software Engineering 
+,1720129,3.81,8,7,2,4,0,4,2,ML engineer,Data Science 
+,1720149,3.59,8,6,2,4,1,4,3,ML engineer,Data Science 
+,1720073,3.71,7,6,2,3,1,4,4,Web Developer ,Software Engineering 
+,1720032,3.66,7,5,3,4,1,4,3,Software Engineer,Software Engineering 
+,1720170,3.7,7,5,1,2,3,5,3,Data Engineer,Data Science 
+,1720025,3.52,7,5,0,3,4,5,3,Data Engineer,Data Science 
+,1720199,3.66,8,5,2,2,2,4,2,Network Engineer,Network and Security 
+,1720074,3.55,8,5,1,2,1,6,2,Data Analyst,Data Science 
+,1720177,3.68,7,5,1,0,0,5,1,Web Developer ,Software Engineering 
+,1720184,3.46,8,6,0,0,0,3,3,ML engineer,Data Science 
+,1720152,3.32,6,6,3,4,2,4,3,Software Engineer,Software Engineering 
+,1720105,3.41,6,6,0,7,5,4,4,ML engineer,Data Science 
+,1720129,3.62,7,6,0,0,3,4,2,Data Engineer,Data Science 
+,1720181,3.68,8,6,0,0,4,4,2,Network Engineer ,Network and Security 
+,1720015,3.62,8,6,0,0,0,4,3,Network Engineer ,Network and Security 
+,1720009,3.58,8,5,0,0,0,4,2,Network Engineer ,Network and Security 
+,1720121,3.61,7,5,1,0,0,4,2,App Developer ,Software Engineering 
+,1720182,3.63,8,6,1,0,0,4,2,App Developer ,Software Engineering 
+,1720007,3.92,8,7,0,0,0,4,2,Data Analyst,Data Science 
+,1720068,3.58,7,6,2,4,0,4,2,Web Developer ,Software Engineering 
+,1720151,3.64,8,6,0,0,3,4,3,ML engineer,Data Science 
+,1720058,3.6,8,7,0,0,3,4,3,ML engineer,Data Science 
+,1720071,3.68,8,7,0,2,3,4,1,Data Analyst,Data Science 
+,1720130,3.69,8,7,0,0,2,4,1,Data Analyst,Data Science 
+,1720073,3.51,8,6,1,3,0,3,1,App Developer ,Software Engineering 
+,1720181,3.42,8,6,1,3,2,4,1,ML engineer,Data Science 
+,1720157,3.81,8,6,0,0,0,4,1,Software Engineer,Data Science 
+,1720127,3.59,7,6,2,2,0,3,3,Web Developer ,Software Engineering 
+,1720021,3.37,8,7,3,5,1,5,3,Software Engineer,Software Engineering 
+,1720028,3.41,8,7,6,7,2,5,3,Software Engineer,Software Engineering 
+,1720083,3.63,8,7,0,0,0,4,2,Data Analyst,Data Science 
+,1720071,3.39,8,7,3,5,1,5,3,Software Engineer,Software Engineering
+,1720093,3.91,7,7,0,0,0,7,1,Data Analyst,Data Science 
+,1720053,3.72,8,7,1,4,0,5,2,ML engineer,Data Science 
+,1720176,3.67,8,7,3,6,2,6,2,Data Engineer,Data Science 
+,1720113,3.63,8,6,2,5,2,6,2,ML engineer,Data Science 
+,1720019,3.59,8,6,0,0,0,2,1,Web Developer,Data Science 
+,1720066,3.71,8,6,0,0,0,5,1,Software Engineer,Data Science 
+,1720089,3.54,7,6,4,8,2,6,2,Software Engineer,Data Science 
+,1720153,3.51,8,7,4,7,2,6,2,Software Engineer,Data Science 
+,1720057,3.69,8,7,0,0,2,4,1,Data Analyst,Data Science 
+,1720103,3.73,8,6,0,0,2,4,1,Data Analyst,Data Science 
+,1720038,3.56,7,7,1,0,2,4,2,Data Analyst,Data Science 
+,1720187,3.59,8,6,0,0,3,5,2,Data Analyst,Data Science 
+,1720144,3.51,8,6,0,0,2,4,1,Data Analyst,Data Science 
+,1720127,3.94,9,8,3,3,0,8,1,Network Engineer,Network and Security 
+,1720099,3.81,8,7,1,1,0,7,1,Network Engineer,Network and Security 
+,1720069,3.73,7,7,0,0,0,5,1,Network Engineer,Network and Security 
+,1720075,3.69,8,5,0,0,0,5,1,Network Engineer,Network and Security 
+,1720087,3.79,8,6,0,0,0,6,1,Network Engineer,Network and Security 
+,1720137,3.65,8,7,0,0,3,5,2,ML engineer,Data Science 
+,1720160,3.75,8,7,0,0,0,5,1,ML engineer,Data Science 
+,1720157,3.71,7,6,0,0,0,6,1,ML engineer,Data Science 
+,1720118,3.49,8,6,0,0,0,5,1,ML engineer,Data Science 
+,1720199,3.51,8,7,0,0,0,7,1,ML engineer,Data Science 
+,1720194,3.32,8,7,0,0,0,5,1,Web Developer ,Data Science 
+,1720035,3.33,8,7,0,0,0,5,1,Web Developer ,Software Engineering 
+,1720057,3.39,8,7,0,0,0,6,1,Web Developer,Software Engineering 
+,1720119,3.41,7,6,0,0,0,5,1,Web Developer ,Data Science 
+,1720111,3.37,8,7,0,0,0,3,1,Web Developer ,Software Engineering 
+,1720065,3.28,8,5,3,2,1,4,2,App Developer ,Software Engineering 
+,1720099,3.43,8,7,0,0,0,4,2,App Developer ,Software Engineering 
+,1720064,3.47,8,6,0,0,0,4,2,App Developer ,Software Engineering 
+,1720156,3.21,8,6,0,0,0,4,1,App Developer ,Software Engineering 
+,1720155,3.33,8,6,0,0,0,3,2,App Developer ,Software Engineering 
+,1720055,3.35,8,6,0,0,0,5,1,App Developer ,Software Engineering 
+,1720133,3.51,8,7,1,3,1,4,2,Data Engineer,Data Science 
+,1720186,3.53,8,6,1,2,1,4,2,Data Engineer,Data Science 
+,1720134,3.55,8,7,0,0,0,5,2,Data Engineer,Data Science 
+,1720056,3.64,8,7,0,0,1,5,2,Data Engineer,Data Science 
+,1720010,3.66,8,6,0,0,2,6,2,Data Engineer,Data Science 
+,1720110,3.61,8,6,3,2,2,5,1,Software Engineer,Software Engineering 
+,1720051,3.53,8,7,3,2,2,5,1,Software Engineer,Software Engineering 
+,1720125,3.59,8,7,3,2,3,5,2,Software Engineer,Software Engineering 
+,1720184,3.52,8,7,3,2,1,7,1,Software Engineer,Software Engineering 
+,1720097,3.65,8,7,3,4,2,6,2,Software Engineer,Software Engineering 
+,1720033,3.61,7,7,0,0,2,5,1,Data Engineer,Data Science 
+,1720128,3.67,7,7,0,0,2,6,2,Data Engineer,Data Science 
+,1720005,3.63,8,7,0,0,4,5,1,Data Engineer,Data Science 
+,1720114,3.59,8,6,0,0,1,3,1,Data Engineer,Data Science 
+,1720042,3.58,8,7,0,0,3,6,2,Data Engineer,Data Science 
+,1720117,3.51,8,7,0,0,2,6,2,Data Engineer ,Data Science 
+,1720029,3.52,8,7,0,0,0,5,1,Data Engineer,Data Science 
+,1720098,3.59,7,7,0,0,2,7,1,Data Engineer ,Data Science
+,1720091,3.59,7,7,0,0,2,6,2,ML engineer,Data Science 
+,1720055,3.69,7,7,0,0,3,7,2,ML engineer,Data Science 
+,1720008,3.62,8,6,0,0,3,5,1,Data Engineer,Data Science
+,1720099,3.58,8,6,0,0,4,6,1,ML engineer,Data Science 
+,1720132,3.71,7,7,0,0,3,6,1,ML engineer,Data Science 
+,1720156,3.63,8,6,0,0,3,5,2,ML engineer,Data Science 
+,1720026,3.41,7,6,0,0,0,4,1,Web Developer ,Software Engineering 
+,1720184,3.43,8,7,0,0,0,4,1,Web Developer ,Software Engineering
+,1720196,3.39,8,7,0,0,0,4,1,Web Developer ,Software Engineering 
+,1720044,3.38,8,7,0,0,0,3,1,Web Developer ,Software Engineering 
+,1720176,3.29,8,7,0,0,0,3,1,Web Developer ,Software Engineering 
+,1720016,3.38,8,7,0,0,0,4,1,Web Developer ,Software Engineering 
+,1720152,3.4,8,7,0,0,0,4,1,App Developer,Software Engineering 
+,1720031,3.39,8,7,0,0,0,4,1,App Developer ,Software Engineering 
+,1720157,3.38,8,7,0,0,0,3,1,App Developer ,Software Engineering 
+,1720004,3.31,7,7,0,0,0,4,1,App Developer ,Software Engineering 
+,1720162,3.28,7,6,0,0,0,4,1,App Developer ,Software Engineering 
+,1720152,3.35,7,6,0,0,0,3,1,App Developer ,Software Engineering 
+,1720154,3.51,7,6,0,0,0,3,1,App Developer ,Software Engineering 
+,1720053,3.49,8,5,0,0,0,3,1,App Developer ,Software Engineering
+,1720019,3.48,8,5,0,0,0,3,1,App Developer ,Software Engineering 
+,1720056,3.89,8,7,0,0,2,4,1,Data Analyst,Data Science 
+,1720051,3.73,8,7,0,0,3,5,1,Data Analyst,Data Science 
+,1720156,3.79,8,7,0,0,3,4,1,Data Analyst,Data Science 
+,1720012,3.75,8,7,0,0,3,4,1,Data Analyst,Data Science 
+,1720154,3.78,8,7,0,0,3,5,1,Data Analyst,Data Science 
+,1720199,3.78,8,7,0,0,4,5,1,Data Analyst ,Data Science 
+,1720014,3.77,8,7,0,0,4,5,1,Data Analyst,Data Science 
+,2010000,3.61,5,5,0,0,0,3,0,No job,Data Science
+,2010001,3.57,6,7,0,0,0,2,0,No job,Data Science
+,2010002,3.93,8,8,3,2,3,5,3,Data Scientist,Data Science
+,2010003,3.42,6,6,1,2,1,2,1,App Developer,Software Engineering
+,2010004,3.62,6,4,3,5,0,6,2,ML engineer,Data Science
+,2010005,3.78,6,6,0,0,0,6,1,ML engineer,Data Science
+,2010006,3.56,6,6,3,3,2,6,2,Software Engineer,Software Engineering
+,2010007,3.69,6,7,3,6,2,6,2,Data Analyst,Data Science
+,2010008,3.95,7,8,2,0,0,8,2,Network engineer,Network and Security
+,2010009,3.85,5,5,0,0,0,4,0,Web Designer,Software Engineering
+,2010010,3.65,7,5,1,3,2,5,2,Data Analyst,Data Science
+,2010011,3.72,6,4,2,2,0,5,1,App Developer,Software Engineering
+,2010012,3.68,6,6,0,0,0,3,1,Data Analyst,Data Science
+,2010013,3.59,5,5,0,3,0,2,2,Data Engineer,Data Science 
+,2010014,3.2,6,6,2,6,0,4,2,Software Engineer,Software Engineering
+,2010015,3.32,5,6,3,6,0,5,1,Software Engineer,Software Engineering
+,2010016,3.57,7,7,2,4,0,4,2,Web developer,Software Engineering
+,2010017,3.51,6,6,0,0,0,8,2,Network Engineer,Network and Security
+,2010018,3.66,5,6,0,0,0,5,1,Cyber Security Analyst,Network and Security
+,2010019,3.62,6,5,0,0,0,2,0,Data Analyst,Data Science
+,2010020,3.48,6,6,0,0,0,4,0,Data Analyst,Data Science
+,2010021,3.39,7,7,0,0,0,5,4,Network Engineer,Network and Security
+,2010022,3.66,6,4,0,0,0,2,2,Web Developer,Software Engineering
+,2010023,3.82,7,7,2,3,0,4,1,Data Engineer,Data Science
+,2010024,3.59,8,8,3,6,0,5,2,Software Engineer,Software Engineering
+,2010025,3.71,6,6,0,0,0,3,1,Data Analyst,Data Science
+,2010026,3.65,9,6,3,5,0,5,2,Software Engineer,Software Engineering
+,2010027,3.63,5,6,0,0,0,3,1,Data Analyst,Data Science
+,2010028,3.66,5,2,1,3,0,3,2,Software Engineer,Software Engineering
+,2010029,3.61,5,5,0,0,0,5,4,Software Engineer,Software Engineering
+,2010030,3.66,6,5,0,0,0,6,2,Network Engineer,Network and Security
+,2010031,3.74,6,6,0,0,0,5,2,Web Developer,Software Engineering
+,2010032,3.29,5,5,3,6,2,6,3,Software Engineer,Software Engineering
+,2010033,3.57,6,5,2,3,0,3,2,Data Engineer,Data Science
+,2010034,3.45,6,6,0,0,0,3,2,Data Analyst,Data Science
+,2010035,3.55,6,6,1,3,3,5,2,App Developer,Software Engineering 
+,2010036,3.61,7,5,2,3,1,4,3,ML engineer,Data Science
+,2010037,3.7,6,5,1,3,1,4,1,ML engineer,Data Science 
+,2010038,3.68,7,5,0,0,0,5,2,Web Developer,Software Engineering 
+,2010039,3.59,7,5,0,0,0,3,2,Cyber Security Analyst,Network and Security
+,2010040,3.73,8,5,0,0,0,3,2,Cyber Security Analyst,Network and Security
+,2010041,3.73,7,5,0,0,0,4,2,Cyber Security Analyst,Network and Security
+,2010042,3.74,6,6,0,0,0,4,1,Cyber Security Analyst,Network and Security
+,2010043,3.76,7,6,0,0,0,3,2,Cyber Security Analyst,Network and Security
+,2010044,3.8,7,5,0,0,0,4,2,Cyber Security Analyst,Network and Security
+,2010045,3.63,8,5,0,0,0,4,2,Cyber Security Analyst ,Network and Security 
+,2010046,3.53,6,6,0,0,0,5,3,Cyber Security Analyst,Network and Security
+,2010047,3.68,7,5,0,0,0,3,2,Cyber Security Analyst,Network and Security 
+,2010048,3.48,7,5,3,4,2,4,2,Web Developer,Software Engineering 
+,2010049,3.41,8,5,5,10,2,2,2,Software Engineer,Software Engineering 
+,2010050,3.53,8,6,4,3,3,5,3,App Developer ,Software Engineering 
+,2010051,3.49,8,6,3,5,1,4,3,Web Developer ,Software Engineering 
+,2010052,3.71,8,7,5,9,2,4,4,Software Engineer,Software Engineering 
+,2010053,3.45,8,6,5,6,4,5,2,Software Engineer,Software Engineering 
+,2010054,3.49,8,6,5,9,3,4,3,Data Engineer,Data Science 
+,2010055,3.67,7,6,4,6,2,5,3,Data Engineer,Data Science 
+,2010056,3.23,6,5,0,0,0,4,4,Web Developer ,Software Engineering 
+,2010057,3.54,7,6,1,2,4,3,3,ML engineer,Data Science 
+,2010058,3.72,7,6,3,4,1,4,2,App Developer ,Software Engineering 
+,2010059,3.81,8,7,2,4,0,4,2,ML engineer,Data Science 
+,2010060,3.59,8,6,2,4,1,4,3,ML engineer,Data Science 
+,2010061,3.71,7,6,2,3,1,4,4,Web Developer ,Software Engineering 
+,2010062,3.66,7,5,3,4,1,4,3,Software Engineer,Software Engineering 
+,2010063,3.7,7,5,1,2,3,5,3,Data Engineer,Data Science 
+,2010064,3.52,7,5,0,3,4,5,3,Data Engineer,Data Science 
+,2010065,3.66,8,5,2,2,2,4,2,Network Engineer,Network and Security 
+,2010066,3.55,8,5,1,2,1,6,2,Data Analyst,Data Science 
+,2010067,3.68,7,5,1,0,0,5,1,Web Developer ,Software Engineering 
+,2010068,3.46,8,6,0,0,0,3,3,ML engineer,Data Science 
+,2010069,3.32,6,6,3,4,2,4,3,Software Engineer,Software Engineering 
+,2010070,3.41,6,6,0,7,5,4,4,ML engineer,Data Science 
+,2010071,3.62,7,6,0,0,3,4,2,Data Engineer,Data Science 
+,2010072,3.68,8,6,0,0,4,4,2,Network Engineer ,Network and Security 
+,2010073,3.62,8,6,0,0,0,4,3,Network Engineer ,Network and Security 
+,2010074,3.58,8,5,0,0,0,4,2,Network Engineer ,Network and Security 
+,2010075,3.61,7,5,1,0,0,4,2,App Developer ,Software Engineering 
+,2010076,3.63,8,6,1,0,0,4,2,App Developer ,Software Engineering 
+,2010077,3.92,8,7,0,0,0,4,2,Data Analyst,Data Science 
+,2010078,3.58,7,6,2,4,0,4,2,Web Developer ,Software Engineering 
+,2010079,3.64,8,6,0,0,3,4,3,ML engineer,Data Science 
+,2010080,3.6,8,7,0,0,3,4,3,ML engineer,Data Science 
+,2010081,3.68,8,7,0,2,3,4,1,Data Analyst,Data Science 
+,2010082,3.69,8,7,0,0,2,4,1,Data Analyst,Data Science 
+,2010083,3.51,8,6,1,3,0,3,1,App Developer ,Software Engineering 
+,2010084,3.42,8,6,1,3,2,4,1,ML engineer,Data Science 
+,2010085,3.81,8,6,0,0,0,4,1,Software Engineer,Data Science 
+,2010086,3.59,7,6,2,2,0,3,3,Web Developer ,Software Engineering 
+,2010087,3.37,8,7,3,5,1,5,3,Software Engineer,Software Engineering 
+,2010088,3.41,8,7,6,7,2,5,3,Software Engineer,Software Engineering 
+,2010089,3.63,8,7,0,0,0,4,2,Data Analyst,Data Science 
+,2010090,3.39,8,7,3,5,1,5,3,Software Engineer,Software Engineering
+,2010091,3.91,7,7,0,0,0,7,1,Data Analyst,Data Science 
+,2010092,3.72,8,7,1,4,0,5,2,ML engineer,Data Science 
+,2010093,3.67,8,7,3,6,2,6,2,Data Engineer,Data Science 
+,2010094,3.63,8,6,2,5,2,6,2,ML engineer,Data Science 
+,2010095,3.59,8,6,0,0,0,2,1,Web Developer,Data Science 
+,2010096,3.71,8,6,0,0,0,5,1,Software Engineer,Data Science 
+,2010097,3.54,7,6,4,8,2,6,2,Software Engineer,Data Science 
+,2010098,3.51,8,7,4,7,2,6,2,Software Engineer,Data Science 
+,2010099,3.69,8,7,0,0,2,4,1,Data Analyst,Data Science 
+,2010100,3.73,8,6,0,0,2,4,1,Data Analyst,Data Science 
+,2010101,3.56,7,7,1,0,2,4,2,Data Analyst,Data Science 
+,2010102,3.59,8,6,0,0,3,5,2,Data Analyst,Data Science 
+,2010103,3.51,8,6,0,0,2,4,1,Data Analyst,Data Science 
+,2010104,3.94,9,8,3,3,0,8,1,Network Engineer,Network and Security 
+,2010105,3.81,8,7,1,1,0,7,1,Network Engineer,Network and Security 
+,2010106,3.73,7,7,0,0,0,5,1,Network Engineer,Network and Security 
+,2010107,3.69,8,5,0,0,0,5,1,Network Engineer,Network and Security 
+,2010108,3.79,8,6,0,0,0,6,1,Network Engineer,Network and Security 
+,2010109,3.65,8,7,0,0,3,5,2,ML engineer,Data Science 
+,2010110,3.75,8,7,0,0,0,5,1,ML engineer,Data Science 
+,2010111,3.71,7,6,0,0,0,6,1,ML engineer,Data Science 
+,2010112,3.49,8,6,0,0,0,5,1,ML engineer,Data Science 
+,2010113,3.51,8,7,0,0,0,7,1,ML engineer,Data Science 
+,2010114,3.32,8,7,0,0,0,5,1,Web Developer ,Data Science 
+,2010115,3.33,8,7,0,0,0,5,1,Web Developer ,Software Engineering 
+,2010116,3.39,8,7,0,0,0,6,1,Web Developer,Software Engineering 
+,2010117,3.41,7,6,0,0,0,5,1,Web Developer ,Data Science 
+,2010118,3.37,8,7,0,0,0,3,1,Web Developer ,Software Engineering 
+,2010119,3.28,8,5,3,2,1,4,2,App Developer ,Software Engineering 
+,2010120,3.43,8,7,0,0,0,4,2,App Developer ,Software Engineering 
+,2010121,3.47,8,6,0,0,0,4,2,App Developer ,Software Engineering 
+,2010122,3.21,8,6,0,0,0,4,1,App Developer ,Software Engineering 
+,2010123,3.33,8,6,0,0,0,3,2,App Developer ,Software Engineering 
+,2010124,3.35,8,6,0,0,0,5,1,App Developer ,Software Engineering 
+,2010125,3.51,8,7,1,3,1,4,2,Data Engineer,Data Science 
+,2010126,3.53,8,6,1,2,1,4,2,Data Engineer,Data Science 
+,2010127,3.55,8,7,0,0,0,5,2,Data Engineer,Data Science 
+,2010128,3.64,8,7,0,0,1,5,2,Data Engineer,Data Science 
+,2010129,3.66,8,6,0,0,2,6,2,Data Engineer,Data Science 
+,2010130,3.61,8,6,3,2,2,5,1,Software Engineer,Software Engineering 
+,2010131,3.53,8,7,3,2,2,5,1,Software Engineer,Software Engineering 
+,2010132,3.59,8,7,3,2,3,5,2,Software Engineer,Software Engineering 
+,2010133,3.52,8,7,3,2,1,7,1,Software Engineer,Software Engineering 
+,2010134,3.65,8,7,3,4,2,6,2,Software Engineer,Software Engineering 
+,2010135,3.61,7,7,0,0,2,5,1,Data Engineer,Data Science 
+,2010136,3.67,7,7,0,0,2,6,2,Data Engineer,Data Science 
+,2010137,3.63,8,7,0,0,4,5,1,Data Engineer,Data Science 
+,2010138,3.59,8,6,0,0,1,3,1,Data Engineer,Data Science 
+,2010139,3.58,8,7,0,0,3,6,2,Data Engineer,Data Science 
+,2010140,3.51,8,7,0,0,2,6,2,Data Engineer ,Data Science 
+,2010141,3.52,8,7,0,0,0,5,1,Data Engineer,Data Science 
+,2010142,3.59,7,7,0,0,2,7,1,Data Engineer ,Data Science
+,2010143,3.59,7,7,0,0,2,6,2,ML engineer,Data Science 
+,2010144,3.69,7,7,0,0,3,7,2,ML engineer,Data Science 
+,2010145,3.62,8,6,0,0,3,5,1,Data Engineer,Data Science
+,2010146,3.58,8,6,0,0,4,6,1,ML engineer,Data Science 
+,2010147,3.71,7,7,0,0,3,6,1,ML engineer,Data Science 
+,2010148,3.63,8,6,0,0,3,5,2,ML engineer,Data Science 
+,2010149,3.41,7,6,0,0,0,4,1,Web Developer ,Software Engineering 
+,2010150,3.43,8,7,0,0,0,4,1,Web Developer ,Software Engineering
+,2010151,3.39,8,7,0,0,0,4,1,Web Developer ,Software Engineering 
+,2010152,3.38,8,7,0,0,0,3,1,Web Developer ,Software Engineering 
+,2010153,3.29,8,7,0,0,0,3,1,Web Developer ,Software Engineering 
+,2010154,3.38,8,7,0,0,0,4,1,Web Developer ,Software Engineering 
+,2010155,3.4,8,7,0,0,0,4,1,App Developer,Software Engineering 
+,2010156,3.39,8,7,0,0,0,4,1,App Developer ,Software Engineering 
+,2010157,3.38,8,7,0,0,0,3,1,App Developer ,Software Engineering 
+,2010158,3.31,7,7,0,0,0,4,1,App Developer ,Software Engineering 
+,2010159,3.28,7,6,0,0,0,4,1,App Developer ,Software Engineering 
+,2010160,3.35,7,6,0,0,0,3,1,App Developer ,Software Engineering 
+,2010161,3.51,7,6,0,0,0,3,1,App Developer ,Software Engineering 
+,2010162,3.49,8,5,0,0,0,3,1,App Developer ,Software Engineering
+,2010163,3.48,8,5,0,0,0,3,1,App Developer ,Software Engineering 
+,2010164,3.89,8,7,0,0,2,4,1,Data Analyst,Data Science 
+,2010165,3.73,8,7,0,0,3,5,1,Data Analyst,Data Science 
+,2010166,3.79,8,7,0,0,3,4,1,Data Analyst,Data Science 
+,2010167,3.75,8,7,0,0,3,4,1,Data Analyst,Data Science 
+,2010168,3.78,8,7,0,0,3,5,1,Data Analyst,Data Science 
+,2010169,3.78,8,7,0,0,4,5,1,Data Analyst ,Data Science 
+,2010170,3.77,8,7,0,0,4,5,1,Data Analyst,Data Science 
+,2010171,3.66,8,6,0,0,5,6,1,Data Analyst,Data Science 
+,2010172,3.68,8,7,0,0,0,5,1,Network Engineer ,Network and Security 
+,2010173,3.75,8,6,0,0,0,6,1,Network Engineer,Network and Security
+,2010174,3.76,8,7,0,0,0,6,1,Network Engineer,Network and Security 
+,2010175,3.58,8,7,0,0,0,5,1,Network Engineer,Network and Security
+,2010176,3.83,8,7,0,0,0,4,1,Network Engineer,Network and Security 
+,2010177,3.68,7,6,0,0,0,5,1,Network Engineer,Network and Security 
+,2010178,3.73,7,7,0,0,0,4,1,Network Engineer,Network and Security 
+,2010179,3.73,8,7,0,0,0,4,1,Network Engineer,Network and Security 
+,2010180,3.83,7,7,0,0,4,5,1,Cyber Security Analyst,Network and Security
+,2010181,3.81,7,6,0,0,3,5,1,Cyber Security Analyst,Network and Security
+,2010182,3.73,7,7,0,0,3,4,1,Cyber Security Analyst,Network and Security
+,2010183,3.74,8,7,0,0,3,5,1,Cyber Security Analyst,Network and Security
+,2010184,3.87,8,7,0,0,3,4,1,Cyber Security Analyst,Network and Security 
+,2010185,3.81,8,6,0,0,3,5,1,Cyber Security Analyst,Network and Security
+,2010186,3.59,7,6,0,0,2,3,1,Cyber Security Analyst,Network and Security 
+,2010187,3.76,8,7,0,0,3,5,1,Cyber Security Analyst,Network and Security 
+,2010188,3.65,8,7,0,0,3,5,1,Cyber Security Analyst,Network and Security 
+,2010189,3.69,8,7,0,0,0,6,1,Web Designer ,Data Science 
+,2010190,3.86,8,7,0,0,0,6,1,Web Designer,Data Science 
+,2010191,3.82,8,7,0,0,0,6,1,Web Designer ,Data Science 
+,2010192,3.87,8,7,0,0,0,5,1,Web Designer ,Data Science 
+,2010193,3.79,8,8,0,0,0,6,1,Web Designer ,Data Science 
+,2010194,3.83,8,7,0,0,0,6,1,Web Designer,Data Science 
+,2010195,3.65,9,8,2,4,4,5,2,ML engineer,Data Science 
+,2010196,3.71,8,7,1,3,4,6,1,ML engineer,Data Science 
+,2010197,3.85,8,7,0,0,5,6,1,ML engineer,Data Science 
+,2010198,3.87,8,8,0,0,6,5,1,ML engineer,Data Science 
+,2010199,3.69,8,7,0,0,0,4,1,Network Engineer,Network and Security 
+,2010200,3.48,8,7,0,0,0,3,1,Network Engineer,Network and Security 
+,2010201,3.58,8,7,0,0,0,3,1,Network Engineer,Network and Security 
+,2010202,3.61,8,7,0,0,0,3,1,Network Engineer,Network and Security 
+,2010203,3.47,8,7,0,0,0,3,1,Network Engineer,Network and Security 
+,2010204,3.39,8,8,0,0,0,3,2,Network Engineer,Network and Security 
+,2010205,3.28,8,7,0,0,0,3,2,Web Designer,Software Engineering 
+,2010206,3.21,6,6,0,0,0,3,3,Software Engineer,Software Engineering 
+,2010207,3.11,8,6,4,5,1,4,4,Software Engineer,Software Engineering 
+,2010208,3.12,8,7,4,3,1,6,4,Software Engineer,Software Engineering 
+,2010209,3.17,7,6,3,3,1,4,5,Software Engineer,Software Engineering 
+,2010210,3.22,7,6,2,5,0,3,2,App Developer ,Software Engineering 
+,2010211,3.19,8,6,3,4,0,3,2,UI Designer ,Software Engineering 
+,2010212,3.11,8,6,3,2,0,4,1,UI Designer ,Software Engineering 
+,2010213,3.13,8,6,0,0,0,2,3,UI Designer,Software Engineering 
+,2010214,3.21,8,6,0,0,0,2,1,UI Designer ,Software Engineering 
+,2010215,3.78,8,6,0,0,0,4,3,ML engineer,Data Science 
+,2010216,2.93,8,6,5,10,0,3,3,Software Engineer,Data Science 
+,2010217,3.09,8,6,4,11,0,3,3,Software Engineer,Software Engineering 
+,2010218,3.25,8,6,5,13,0,2,2,Software Engineer,Software Engineering 
+,2010219,2.93,7,6,5,15,0,3,4,Software Engineer,Software Engineering 
+,2010220,3.11,8,5,6,13,0,3,4,Software Engineer,Software Engineering 
+,2010221,3.19,8,6,6,5,0,3,2,Software Engineer,Software Engineering 
+,2010222,3.2,8,6,4,3,1,5,2,Software Engineer,Software Engineering 
+,2010223,2.98,8,6,3,2,2,3,1,Data Analyst,Data Science 
+,2010224,3.11,9,7,2,10,3,2,3,ML engineer,Data Science
+,2010225,3.25,8,6,3,10,4,4,3,ML engineer,Data Science 
+,2010226,3.22,8,6,4,8,2,3,2,ML engineer,Data Science 
+,2010227,3.87,9,7,3,2,3,2,3,Data Engineer,Data Science 
+,2010228,3.81,8,6,4,3,2,2,3,Data Engineer,Data Science 
+,2010229,3.33,8,6,3,7,3,3,2,ML engineer,Data Science 
+,2010230,3.33,8,7,3,2,1,4,1,Software Engineer,Data Science 
+,2010231,3.13,6,6,2,3,1,3,1,Web Designer,Software Engineering 
+,2010232,3.33,7,5,4,4,1,4,4,Web Developer ,Software Engineering 
+,2010233,3.22,6,5,3,3,1,3,4,Software Engineer,Software Engineering 
+,2010234,3.17,8,6,0,0,0,3,3,Cyber Security Analyst,Network and Security 
+,2010235,3.69,8,6,0,0,0,4,2,Data Analyst,Data Science 
+,2010236,3.72,8,5,0,0,0,4,2,Data Analyst,Data Science 
+,2010237,3.41,7,6,0,0,0,2,1,Web Developer,Data Science 
+,2010238,3.18,6,6,0,0,0,2,2,UI Designer ,Software Engineering 
+,2010239,3.23,6,6,0,0,0,3,3,Data Analyst,Data Science 
+,2010240,3.09,5,5,0,0,0,2,2,UI Designer ,Software Engineering 
+,2010241,3.25,6,6,4,5,3,4,3,ML engineer,Data Science 
+,2010242,3.24,7,7,1,2,1,2,2,Data Engineer,Data Science 
+,2010243,3.21,6,6,0,0,0,2,2,UI Designer,Software Engineering 
+,2010244,3.15,7,6,0,0,0,2,3,App Developer,Software Engineering 
+,2010245,3.33,7,6,0,0,5,2,4,Data Analyst,Data Science 
+,2010246,3.26,7,7,0,0,0,2,2,Web Developer,Software Engineering 
+,2010247,3.58,7,7,0,0,4,4,2,Data Analyst,Data Science 
+,2010248,3.77,7,7,0,0,4,2,3,ML engineer,Data Science 
+,2010249,3.65,7,6,4,3,2,3,2,Software Engineer,Software Engineering 
+,2010250,3.53,7,7,2,3,1,3,2,Software Engineer,Software Engineering 
+,2010251,3.88,8,8,0,0,0,4,1,Data Analyst,Data Science 
+,2010252,3.83,8,7,0,0,0,3,1,Data Analyst,Data Science 
+,2010253,3.97,9,8,0,0,0,66,1,Data Analyst,Data Science 
+,2010254,3.77,8,7,0,0,0,4,1,Data Analyst,Data Science 
+,2010255,3.69,7,6,2,2,2,4,2,Software Engineer,Software Engineering 
+,2010256,3.72,8,7,3,2,4,4,2,Software Engineer,Software Engineering 
+,2010257,3.73,8,6,2,1,3,3,1,Software Engineer,Software Engineering 
+,2010258,3.43,7,6,4,2,2,5,2,Data Analyst,Data Science 
+,2010259,3.43,7,7,0,0,0,3,3,App Developer,Software Engineering 
+,2010260,3.49,8,6,4,5,4,2,3,ML engineer,Data Science 
+,2010261,3.51,7,7,0,0,0,2,3,Data Analyst,Data Science 
+,2010262,3.62,9,6,2,5,4,5,2,ML engineer,Data Science
+,2010263,3.58,8,6,0,0,6,5,1,ML engineer,Data Science 
+,2010264,3.66,8,5,0,0,6,4,2,ML engineer,Data Science 
+,2010265,3.29,7,7,3,3,7,3,2,ML engineer,Data Science 
+,2010266,3.59,7,6,0,0,0,3,1,Data Analyst,Data Science 
+,2010267,3.24,6,6,0,0,0,2,1,Web Designer,Software Engineering 
+,2010268,3.12,7,7,0,0,0,2,1,UI Designer,Software Engineering
+,2010269,3.19,7,7,0,0,0,2,1,Web Designer,Software Engineering 
+,2010270,3.29,7,7,0,0,0,2,2,Web Developer,Software Engineering
+,2010271,3.73,8,7,3,2,3,2,1,ML engineer,Data Science 
+,2010272,3.55,8,7,3,3,3,3,2,Data Engineer,Data Science 
+,2010273,3.87,7,7,0,0,0,4,2,Data Analyst,Data Science 
+,2010274,3.35,6,6,0,0,0,3,1,App Developer,Software Engineering 
+,2010275,3.63,8,8,2,4,4,5,2,ML engineer,Data Science 
+,2010276,3.54,7,7,1,2,2,3,1,Data Engineer,Data Science 
+,2010277,3.59,8,8,0,0,0,3,3,Data Engineer,Data Science 
+,2010278,3.48,7,7,0,0,0,3,2,Web Developer,Software Engineering 
+,2010279,3.57,8,7,0,0,3,5,1,Data Engineer,Data Science 
+,2010280,3.65,8,7,0,0,0,3,2,Data Engineer,Data Science 
+,2010281,3.89,9,8,0,0,0,4,1,Data Analyst,Data Science 
+,2010282,3.36,8,7,4,7,3,5,1,Software Engineer,Software Engineering
+,2010283,3.29,8,8,4,7,3,3,1,Software Engineer,Software Engineering 
+,2010284,3.45,9,8,8,14,3,5,1,Software Engineer,Software Engineering 
+,2010285,3.37,7,7,0,0,0,3,1,Web Designer,Software Engineering 
+,2010286,3.39,7,7,0,0,0,3,1,UI Designer,Software Engineering 
+,2010287,3.17,7,7,0,0,0,2,1,Web Designer,Software Engineering 
+,2010288,3.92,9,9,0,0,0,7,1,Data Analyst,Data Science 
+,2010289,3.77,8,8,0,0,0,3,1,Data Engineer,Data Science 
+,2010290,3.68,7,7,0,0,4,2,1,ML engineer,Data Science 
+,2010291,3.81,7,7,0,0,0,3,1,Data Analyst,Data Science 
+,2010292,3.73,7,7,0,0,5,2,1,ML engineer,Data Science 
+,2010293,3.68,8,8,14,20,0,7,2,Software Engineer,Data Science 
+,2010294,3.5,7,7,0,0,9,6,1,ML engineer,Data Science 
+,2010295,3.22,6,5,0,0,0,2,1,UI Designer,Software Engineering 
+,2010296,3.31,6,6,0,0,0,2,1,Cyber Security Analyst,Network and Security 
+,2010297,3.27,7,7,0,0,0,2,1,Web Developer,Data Science 
+,2010298,3.14,6,6,9,9,0,4,2,Software Engineer,Software Engineering 
+,2010299,3.61,5,5,0,0,0,3,0,No job,Data Science
+,2010300,3.57,6,7,0,0,0,2,0,No job,Data Science
+,2010301,3.25,6,6,1,5,1,3,1,Web Designer,Software Engineering 
+,2010302,3.44,6,5,2,4,1,2,1,Software Engineer,Software Engineering 
+,2010303,3.54,7,5,3,7,3,4,1,Data Analyst,Data Science 
+,2010304,3.32,7,6,1,5,4,2,2,Software Engineer,Software Engineering 
+,2010305,3.47,6,5,1,6,8,4,3,Data Engineer,Data Science 
+,2010306,3.59,5,5,2,7,5,4,1,Data Analyst,Data Science 
+,2010307,3.82,7,6,2,3,2,3,1,Data Engineer,Data Science 
+,2010308,3.41,7,6,2,7,6,4,1,ML engineer,Data Science 
+,2010309,3.55,6,5,2,6,5,4,3,Software Engineer,Software Engineering 
+,2010310,3.23,6,5,2,4,2,4,1,Software Engineer,Data Science 
+,2010311,3.39,7,5,3,6,5,3,1,Data Engineer,Data Science 
+,2010312,3.59,7,5,2,5,4,2,2,ML engineer,Data Science 
+,2010313,3.49,7,5,1,4,5,2,1,Data Analyst,Data Science 
+,2010314,3.64,7,6,1,3,3,3,1,Data Analyst,Data Science 
+,2010315,3.52,8,6,1,4,3,2,1,Data Engineer,Data Science 
+,2010316,3.43,5,5,4,6,5,4,1,Backend Engineer,Software Engineering
+,2010317,3.6,6,5,3,6,4,3,1,Backend Engineer,Software Engineering 
+,2010318,3.42,5,5,2,3,3,2,2,Data Analyst,Data Science 
+,2010319,3.14,5,5,3,4,4,3,1,DevOps Engineer,Software Engineering
+,2010320,3.22,6,5,2,5,5,2,2,QA Engineer,Software Engineering 
+,2010321,3.21,6,5,1,1,4,2,1,MlOps Engineer,Data Science
+,2010322,3.78,7,5,2,4,4,2,2,FullStack Engineer,Software Engineering 
+,2010323,3.28,8,7,2,6,7,3,1,MlOps Engineer,Data Science 
+,2010324,3.64,6,5,2,3,4,2,1,DevOps Engineer,Software Engineering 
+,2010325,3.38,6,6,4,7,2,2,2,Backend Engineer,Software Engineering 
+,2010326,3.67,7,6,2,5,3,2,1,Frontend Developer ,Software Engineering 
+,2010327,3.67,6,5,2,6,3,3,2,QA Engineer,Software Engineering 
+,2010328,3.59,7,6,2,3,4,2,1,Data Analyst,Data Science 
+,2010329,3.72,7,6,1,6,3,2,1,FullStack Engineer,Software Engineering
+,2010330,3.49,7,6,4,8,3,5,1,Security Engineer,Software Engineering 
+,2010331,3.41,6,5,1,5,2,4,1,Security Engineer,Software Engineering
+,2010332,3.38,6,5,1,5,2,4,1,Frontend Developer,Software Engineering 
+,2010333,3.46,5,5,2,22,5,5,1,Backend Engineer,Software Engineering
+,2010334,3.51,7,5,1,12,2,2,1,DevOps Engineer,Software Engineering
+,2010335,3.59,7,6,3,15,2,5,3,QA Engineer,Software Engineering 
+,2010336,3.59,7,6,1,5,8,6,1,ML engineer,Data Science 
+,2010337,3.47,8,5,1,2,10,7,3,ML engineer,Data Science
+,2010338,3.77,7,5,1,4,9,3,2,MlOps Engineer,Data Science 
+,2010339,3.79,8,5,1,6,11,4,1,Data Scientist,Data Science
+,2010340,3.22,6,4,1,14,2,5,1,FullStack Engineer,Data Science
+,2010341,3.11,6,5,1,2,14,4,1,Data Scientist,Data Science 
+,2010342,3.42,5,5,3,14,3,3,2,DevOps Engineer,Data Science 
+,2010343,3.52,6,5,1,3,9,7,1,ML engineer,Data Science
+,2010344,3.66,6,5,4,14,3,8,1,Backend Engineer,Software Engineering 
+,2010345,3.29,5,5,2,3,11,6,2,MlOps Engineer,Data Science 
+,2010346,3.31,8,6,1,2,9,5,2,Data Scientist,Data Science 
+,2010347,3.36,7,5,8,11,2,6,1,FullStack Engineer,Software Engineering 
+,2010348,3.74,7,5,1,2,10,7,1,Data Engineer,Data Science 
+,2010349,3.19,7,5,1,3,13,5,2,ML engineer,Data Science 
+,2010350,3.25,6,5,1,2,12,6,1,Data Architect,Data Science 
+,2010351,3.45,7,6,1,1,16,8,2,Data Engineer,Data Science 
+,2010352,3.57,8,5,2,5,7,4,1,Data Analyst,Data Science 
+,2010353,3.58,7,5,1,2,16,7,1,MlOps Engineer,Data Science 
+,2010354,3.55,6,6,6,17,2,5,2,Backend Engineer,Software Engineering 
+,2010355,3.44,7,6,7,18,2,6,2,DevOps Engineer,Software Engineering 
+,2010356,3.47,8,6,1,1,15,6,2,Data Scientist,Data Science 
+,2010357,3.3,7,4,1,1,11,4,2,Data Architect,Data Science 
+,2010358,3.61,7,6,1,1,16,8,2,ML engineer,Data Science 
+,2010359,3.11,6,5,12,21,1,8,4,FullStack Engineer,Software Engineering 
+,2010360,3.23,7,5,1,1,22,8,4,Data Scientist,Data Science 
+,2010361,3.48,7,5,1,1,17,4,2,ML engineer,Data Science 
+,2010362,3.25,7,6,1,1,15,6,3,Data Engineer,Data Science 
+,2010363,3.36,7,5,1,5,18,5,3,Data Engineer,Data Science 
+,2010364,3.32,8,6,7,13,2,7,2,DevOps Engineer,Software Engineering 
+,2010365,3.43,7,5,1,1,11,8,1,Data Scientist,Data Science 
+,2010366,3.69,8,6,1,1,15,5,2,Data Engineer,Data Science 
+,2010367,3.61,7,6,1,1,21,7,1,Data Architect,Data Science 
+,2010368,3.39,8,6,13,19,2,8,2,FullStack Engineer,Software Engineering 
+,2010369,3.27,7,6,1,1,15,6,1,Data Scientist,Data Science 
+,2010370,3.17,7,5,1,1,12,10,2,ML engineer,Data Science 
+,2010371,3.49,7,6,11,15,1,7,4,FullStack Engineer,Software Engineering 
+,2010372,3.31,7,6,1,1,15,6,2,Data Architect,Data Science 
+,2010373,3.11,7,7,1,1,1,2,1,Web Developer,Software Engineering
+,2010374,3.16,7,5,1,1,1,3,1,UI Designer ,Software Engineering 
+,2010375,3.22,7,6,1,1,1,3,1,Web Designer ,Data Science 
+,2010376,3.27,7,5,1,1,1,2,1,Web Developer ,Data Science 
+,2010377,3.18,5,4,1,1,1,2,1,Web Designer ,Network and Security 
+,2010378,3.39,5,5,1,1,1,4,1,Web Designer ,Software Engineering 
+,2010379,3.33,6,6,1,1,1,3,1,UI Designer,Software Engineering 
+,2010380,3.45,6,5,7,11,1,6,1,FullStack Engineer,Software Engineering 
+,2010381,3.18,7,6,13,18,2,4,1,DevOps Engineer ,Software Engineering 
+,2010382,3.27,7,6,1,1,11,6,1,Data Scientist ,Data Science 
+,2010383,3.11,7,6,5,11,1,6,2,DevOps Engineer,Software Engineering 
+,2010384,3.29,7,6,1,1,8,6,2,Data Engineer,Data Science 
+,2010385,3.414,7,7,1,1,11,8,1,ML engineer,Data Science 
+,2010386,3.66,8,6,7,11,2,7,2,Backend Engineer,Software Engineering 
+,2010387,3.77,7,7,1,1,11,8,2,ML engineer,Data Science 
+,2010388,3.79,8,7,1,1,14,7,1,ML engineer,Data Science 
+,2010389,3.99,9,8,0,0,0,7,1,Data Analyst,Data Science
+,2010390,3.64,9,7,0,0,1,4,1,Data Scientist,Data Science
+,2010391,3.77,7,7,0,0,0,4,1,Data Analyst,Data Science
+,2010392,3.58,7,6,0,0,0,2,1,Web Developer ,Network and Security 
+,2010393,3.44,8,8,4,6,0,5,1,Data Scientist ,Software Engineering 
+,2010394,3.93,8,8,3,2,3,5,3,Data Scientist,Data Science
+,2010395,3.42,6,6,1,2,1,2,1,App Developer,Software Engineering
+,2010396,3.62,6,4,3,5,0,6,2,ML engineer,Data Science
+,2010397,3.78,6,6,0,0,0,6,1,ML engineer,Data Science
+,2010398,3.56,6,6,3,3,2,6,2,Software Engineer,Software Engineering
+,2010399,3.69,6,7,3,6,2,6,2,Data Analyst,Data Science
+,2010400,3.95,7,8,2,0,0,8,2,Network engineer,Network and Security
+,2010401,3.25,6,6,1,5,1,3,1,Web Designer,Software Engineering 
+,2010402,3.63,8,6,0,0,3,5,2,ML engineer,Data Science 
+,2010403,3.41,7,6,0,0,0,4,1,Web Developer ,Software Engineering 
+,2010404,3.43,8,7,0,0,0,4,1,Web Developer ,Software Engineering
+,2010405,3.39,8,7,0,0,0,4,1,Web Developer ,Software Engineering 
+,2010406,3.38,8,7,0,0,0,3,1,Web Developer ,Software Engineering 
+,2010407,3.29,8,7,0,0,0,3,1,Web Developer ,Software Engineering 
+,2010408,3.38,8,7,0,0,0,4,1,Web Developer ,Software Engineering 
+,2010409,3.4,8,7,0,0,0,4,1,App Developer,Software Engineering 
+,2010410,3.39,8,7,0,0,0,4,1,App Developer ,Software Engineering 
+,2010411,3.38,8,7,0,0,0,3,1,App Developer ,Software Engineering 
+,2010412,3.31,7,7,0,0,0,4,1,App Developer ,Software Engineering 
+,2010413,3.28,7,6,0,0,0,4,1,App Developer ,Software Engineering 
+,2010414,3.35,7,6,0,0,0,3,1,App Developer ,Software Engineering 
+,2010415,3.51,7,6,0,0,0,3,1,App Developer ,Software Engineering 
+,2010416,3.49,8,5,0,0,0,3,1,App Developer ,Software Engineering
+,2010417,3.48,8,5,0,0,0,3,1,App Developer ,Software Engineering 
+,2010418,3.89,8,7,0,0,2,4,1,Data Analyst,Data Science 
+,2010419,3.73,8,7,0,0,3,5,1,Data Analyst,Data Science 
+,2010420,3.79,8,7,0,0,3,4,1,Data Analyst,Data Science 
+,2010421,3.75,8,7,0,0,3,4,1,Data Analyst,Data Science 
+,2010422,3.78,8,7,0,0,3,5,1,Data Analyst,Data Science 
+,2010423,3.78,8,7,0,0,4,5,1,Data Analyst ,Data Science 
+,2010424,3.77,8,7,0,0,4,5,1,Data Analyst,Data Science 
+,2010425,3.66,8,6,0,0,5,6,1,Data Analyst,Data Science 
+,2010426,3.68,8,7,0,0,0,5,1,Network Engineer ,Network and Security 
+,2010427,3.75,8,6,0,0,0,6,1,Network Engineer,Network and Security
+,2010428,3.76,8,7,0,0,0,6,1,Network Engineer,Network and Security 
+,2010429,3.58,8,7,0,0,0,5,1,Network Engineer,Network and Security
+,2010430,3.83,8,7,0,0,0,4,1,Network Engineer,Network and Security 
+,2010431,3.68,7,6,0,0,0,5,1,Network Engineer,Network and Security 
+,2010432,3.73,7,7,0,0,0,4,1,Network Engineer,Network and Security 
+,2010433,3.73,8,7,0,0,0,4,1,Network Engineer,Network and Security 
+,2010434,3.83,7,7,0,0,4,5,1,Cyber Security Analyst,Network and Security
+,2010435,3.81,7,6,0,0,3,5,1,Cyber Security Analyst,Network and Security
+,2010436,3.73,7,7,0,0,3,4,1,Cyber Security Analyst,Network and Security
+,2010437,3.74,8,7,0,0,3,5,1,Cyber Security Analyst,Network and Security
+,2010438,3.87,8,7,0,0,3,4,1,Cyber Security Analyst,Network and Security 
+,2010439,3.81,8,6,0,0,3,5,1,Cyber Security Analyst,Network and Security
+,2010440,3.59,7,6,0,0,2,3,1,Cyber Security Analyst,Network and Security 
+,2010441,3.76,8,7,0,0,3,5,1,Cyber Security Analyst,Network and Security 
+,2010442,3.65,8,7,0,0,3,5,1,Cyber Security Analyst,Network and Security 
+,2010443,3.69,8,7,0,0,0,6,1,Web Designer ,Data Science 
+,2010444,3.86,8,7,0,0,0,6,1,Web Designer,Data Science 
+,2010445,3.82,8,7,0,0,0,6,1,Web Designer ,Data Science 
+,2010446,3.87,8,7,0,0,0,5,1,Web Designer ,Data Science 
+,2010447,3.79,8,8,0,0,0,6,1,Web Designer ,Data Science 
+,2010448,3.83,8,7,0,0,0,6,1,Web Designer,Data Science 
+,2010449,3.65,9,8,2,4,4,5,2,ML engineer,Data Science 
+,2010450,3.71,8,7,1,3,4,6,1,ML engineer,Data Science 
+,2010451,3.85,8,7,0,0,5,6,1,ML engineer,Data Science 
+,2010452,3.87,8,8,0,0,6,5,1,ML engineer,Data Science 
+,2010453,3.69,8,7,0,0,0,4,1,Network Engineer,Network and Security 
+,2010454,3.48,8,7,0,0,0,3,1,Network Engineer,Network and Security 
+,2010455,3.58,8,7,0,0,0,3,1,Network Engineer,Network and Security 
+,2010456,3.61,8,7,0,0,0,3,1,Network Engineer,Network and Security 
+,2010457,3.47,8,7,0,0,0,3,1,Network Engineer,Network and Security 
+,2010458,3.39,8,8,0,0,0,3,2,Network Engineer,Network and Security 
+,2010459,3.28,8,7,0,0,0,3,2,Web Designer,Software Engineering 
+,2010460,3.21,6,6,0,0,0,3,3,Software Engineer,Software Engineering 
+,2010461,3.11,8,6,4,5,1,4,4,Software Engineer,Software Engineering 
+,2010462,3.12,8,7,4,3,1,6,4,Software Engineer,Software Engineering 
+,2010463,3.17,7,6,3,3,1,4,5,Software Engineer,Software Engineering 
+,2010464,3.22,7,6,2,5,0,3,2,App Developer ,Software Engineering 
+,2010465,3.19,8,6,3,4,0,3,2,UI Designer ,Software Engineering 
+,2010466,3.11,8,6,3,2,0,4,1,UI Designer ,Software Engineering 
+,2010467,3.13,8,6,0,0,0,2,3,UI Designer,Software Engineering 
+,2010468,3.21,8,6,0,0,0,2,1,UI Designer ,Software Engineering 
+,2010469,3.78,8,6,0,0,0,4,3,ML engineer,Data Science 
+,2010470,2.93,8,6,5,10,0,3,3,Software Engineer,Data Science 
+,2010471,3.09,8,6,4,11,0,3,3,Software Engineer,Software Engineering 
+,2010472,3.25,8,6,5,13,0,2,2,Software Engineer,Software Engineering 
+,2010473,2.93,7,6,5,15,0,3,4,Software Engineer,Software Engineering 
+,2010474,3.11,8,5,6,13,0,3,4,Software Engineer,Software Engineering 
+,2010475,3.19,8,6,6,5,0,3,2,Software Engineer,Software Engineering 
+,2010476,3.2,8,6,4,3,1,5,2,Software Engineer,Software Engineering 
+,2010477,2.98,8,6,3,2,2,3,1,Data Analyst,Data Science 
+,2010478,3.11,9,7,2,10,3,2,3,ML engineer,Data Science
+,2010479,3.25,8,6,3,10,4,4,3,ML engineer,Data Science 
+,2010480,3.22,8,6,4,8,2,3,2,ML engineer,Data Science 
+,2010481,3.87,9,7,3,2,3,2,3,Data Engineer,Data Science 
+,2010482,3.81,8,6,4,3,2,2,3,Data Engineer,Data Science 
+,2010483,3.33,8,6,3,7,3,3,2,ML engineer,Data Science 
+,2010484,3.33,8,7,3,2,1,4,1,Software Engineer,Data Science 
+,2010485,3.13,6,6,2,3,1,3,1,Web Designer,Software Engineering 
+,2010486,3.33,7,5,4,4,1,4,4,Web Developer ,Software Engineering 
+,2010487,3.22,6,5,3,3,1,3,4,Software Engineer,Software Engineering 
+,2010488,3.17,8,6,0,0,0,3,3,Cyber Security Analyst,Network and Security 
+,2010489,3.69,8,6,0,0,0,4,2,Data Analyst,Data Science 
+,2010490,3.72,8,5,0,0,0,4,2,Data Analyst,Data Science 
+,2010491,3.41,7,6,0,0,0,2,1,Web Developer,Data Science 
+,2010492,3.18,6,6,0,0,0,2,2,UI Designer ,Software Engineering 
+,2010493,3.23,6,6,0,0,0,3,3,Data Analyst,Data Science 
+,2010494,3.09,5,5,0,0,0,2,2,UI Designer ,Software Engineering 
+,2010495,3.25,6,6,4,5,3,4,3,ML engineer,Data Science 
+,2010496,3.24,7,7,1,2,1,2,2,Data Engineer,Data Science 
+,2010497,3.21,6,6,0,0,0,2,2,UI Designer,Software Engineering 
+,2010498,3.15,7,6,0,0,0,2,3,App Developer,Software Engineering 
+,2010499,3.33,7,6,0,0,5,2,4,Data Analyst,Data Science 
+,2010500,3.26,7,7,0,0,0,2,2,Web Developer,Software Engineering 
+,2010501,3.58,7,7,0,0,4,4,2,Data Analyst,Data Science 
+,2010502,3.77,7,7,0,0,4,2,3,ML engineer,Data Science 
+,2010503,3.65,7,6,4,3,2,3,2,Software Engineer,Software Engineering 
+,2010504,3.53,7,7,2,3,1,3,2,Software Engineer,Software Engineering 
+,2010505,3.88,8,8,0,0,0,4,1,Data Analyst,Data Science 
+,2010506,3.83,8,7,0,0,0,3,1,Data Analyst,Data Science 
+,2010507,3.97,9,8,0,0,0,66,1,Data Analyst,Data Science 
+,2010508,3.77,8,7,0,0,0,4,1,Data Analyst,Data Science 
+,2010509,3.69,7,6,2,2,2,4,2,Software Engineer,Software Engineering 
+,2010510,3.72,8,7,3,2,4,4,2,Software Engineer,Software Engineering 
+,2010511,3.73,8,6,2,1,3,3,1,Software Engineer,Software Engineering 
+,2010512,3.43,7,6,4,2,2,5,2,Data Analyst,Data Science 
+,2010513,3.43,7,7,0,0,0,3,3,App Developer,Software Engineering 
+,2010514,3.49,8,6,4,5,4,2,3,ML engineer,Data Science 
+,2010515,3.51,7,7,0,0,0,2,3,Data Analyst,Data Science 
+,2010516,3.62,9,6,2,5,4,5,2,ML engineer,Data Science
+,2010517,3.58,8,6,0,0,6,5,1,ML engineer,Data Science 
+,2010518,3.66,8,5,0,0,6,4,2,ML engineer,Data Science 
+,2010519,3.29,7,7,3,3,7,3,2,ML engineer,Data Science 
+,2010520,3.59,7,6,0,0,0,3,1,Data Analyst,Data Science 
+,2010521,3.24,6,6,0,0,0,2,1,Web Designer,Software Engineering 
+,2010522,3.12,7,7,0,0,0,2,1,UI Designer,Software Engineering
+,2010523,3.19,7,7,0,0,0,2,1,Web Designer,Software Engineering 
+,2010524,3.29,7,7,0,0,0,2,2,Web Developer,Software Engineering
+,2010525,3.73,8,7,3,2,3,2,1,ML engineer,Data Science 
+,2010526,3.55,8,7,3,3,3,3,2,Data Engineer,Data Science 
+,2010527,3.87,7,7,0,0,0,4,2,Data Analyst,Data Science 
+,2010528,3.35,6,6,0,0,0,3,1,App Developer,Software Engineering 
+,2010529,3.63,8,8,2,4,4,5,2,ML engineer,Data Science 
+,2010530,3.54,7,7,1,2,2,3,1,Data Engineer,Data Science 
+,2010531,3.59,8,8,0,0,0,3,3,Data Engineer,Data Science 
+,2010532,3.48,7,7,0,0,0,3,2,Web Developer,Software Engineering 
+,2010533,3.57,8,7,0,0,3,5,1,Data Engineer,Data Science 
+,2010534,3.65,8,7,0,0,0,3,2,Data Engineer,Data Science 
+,2010535,3.89,9,8,0,0,0,4,1,Data Analyst,Data Science 
+,2010536,3.36,8,7,4,7,3,5,1,Software Engineer,Software Engineering
+,2010537,3.29,8,8,4,7,3,3,1,Software Engineer,Software Engineering 
+,2010538,3.45,9,8,8,14,3,5,1,Software Engineer,Software Engineering 
+,2010539,3.37,7,7,0,0,0,3,1,Web Designer,Software Engineering 
+,2010540,3.39,7,7,0,0,0,3,1,UI Designer,Software Engineering 
+,2010541,3.17,7,7,0,0,0,2,1,Web Designer,Software Engineering 
+,2010542,3.92,9,9,0,0,0,7,1,Data Analyst,Data Science 
+,2010543,3.77,8,8,0,0,0,3,1,Data Engineer,Data Science 
+,2010544,3.68,7,7,0,0,4,2,1,ML engineer,Data Science 
+,2010545,3.81,7,7,0,0,0,3,1,Data Analyst,Data Science 
+,2010546,3.73,7,7,0,0,5,2,1,ML engineer,Data Science 
+,2010547,3.68,8,8,14,20,0,7,2,Software Engineer,Data Science 
+,2010548,3.5,7,7,0,0,9,6,1,ML engineer,Data Science 
+,2010549,3.22,6,5,0,0,0,2,1,UI Designer,Software Engineering 
+,2010550,3.31,6,6,0,0,0,2,1,Cyber Security Analyst,Network and Security 
+,2010551,3.27,7,7,0,0,0,2,1,Web Developer,Data Science 
+,2010552,3.14,6,6,9,9,0,4,2,Software Engineer,Software Engineering 
+,2010553,3.25,6,6,1,5,1,3,1,Web Designer,Software Engineering 
+,2010554,3.44,6,5,2,4,1,2,1,Software Engineer,Software Engineering 
+,2010555,3.54,7,5,3,7,3,4,1,Data Analyst,Data Science 
+,2010556,3.32,7,6,1,5,4,2,2,Software Engineer,Software Engineering 
+,2010557,3.47,6,5,1,6,8,4,3,Data Engineer,Data Science 
+,2010558,3.59,5,5,2,7,5,4,1,Data Analyst,Data Science 
+,2010559,3.82,7,6,2,3,2,3,1,Data Engineer,Data Science 
+,2010560,3.41,7,6,2,7,6,4,1,ML engineer,Data Science 
+,2010561,3.55,6,5,2,6,5,4,3,Software Engineer,Software Engineering 
+,2010562,3.23,6,5,2,4,2,4,1,Software Engineer,Data Science 
+,2010563,3.39,7,5,3,6,5,3,1,Data Engineer,Data Science 
+,2010564,3.59,7,5,2,5,4,2,2,ML engineer,Data Science 
+,2010565,3.49,7,5,1,4,5,2,1,Data Analyst,Data Science 
+,2010566,3.64,7,6,1,3,3,3,1,Data Analyst,Data Science 
+,2010567,3.52,8,6,1,4,3,2,1,Data Engineer,Data Science 
+,2010568,3.43,5,5,4,6,5,4,1,Backend Engineer,Software Engineering
+,2010569,3.6,6,5,3,6,4,3,1,Backend Engineer,Software Engineering 
+,2010570,3.42,5,5,2,3,3,2,2,Data Analyst,Data Science 
+,2010571,3.14,5,5,3,4,4,3,1,DevOps Engineer,Software Engineering
+,2010572,3.22,6,5,2,5,5,2,2,QA Engineer,Software Engineering 
+,2010573,3.21,6,5,1,1,4,2,1,MlOps Engineer,Data Science
+,2010574,3.78,7,5,2,4,4,2,2,FullStack Engineer,Software Engineering 
+,2010575,3.28,8,7,2,6,7,3,1,MlOps Engineer,Data Science 
+,2010576,3.64,6,5,2,3,4,2,1,DevOps Engineer,Software Engineering 
+,2010577,3.38,6,6,4,7,2,2,2,Backend Engineer,Software Engineering 
+,2010578,3.67,7,6,2,5,3,2,1,Frontend Developer ,Software Engineering 
+,2010579,3.67,6,5,2,6,3,3,2,QA Engineer,Software Engineering 
+,2010580,3.59,7,6,2,3,4,2,1,Data Analyst,Data Science 
+,2010581,3.72,7,6,1,6,3,2,1,FullStack Engineer,Software Engineering
+,2010582,3.49,7,6,4,8,3,5,1,Security Engineer,Software Engineering 
+,2010583,3.41,6,5,1,5,2,4,1,Security Engineer,Software Engineering
+,2010584,3.38,6,5,1,5,2,4,1,Frontend Developer,Software Engineering 
+,2010585,3.46,5,5,2,22,5,5,1,Backend Engineer,Software Engineering
+,2010586,3.51,7,5,1,12,2,2,1,DevOps Engineer,Software Engineering
+,2010587,3.59,7,6,3,15,2,5,3,QA Engineer,Software Engineering 
+,2010588,3.59,7,6,1,5,8,6,1,ML engineer,Data Science 
+,2010589,3.47,8,5,1,2,10,7,3,ML engineer,Data Science
